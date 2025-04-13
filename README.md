@@ -19,28 +19,28 @@ All overlays, except those for home consoles (CRT), will be designed for integer
 | ![bgpearlygate](https://github.com/user-attachments/assets/ef986914-43fe-41fc-a27f-be7f96cfa23f) | ![bgdeepocean](https://github.com/user-attachments/assets/97cb1baf-bad8-4421-8ff8-16cfbf43bfea) |  ![bgmorning](https://github.com/user-attachments/assets/391802b6-699d-4f11-b76c-3bebf21649b2) | ![bgspace](https://github.com/user-attachments/assets/f017893a-7f4b-45c3-8e8a-91c5915d2b02) |
 
 
-| Native CRT | Aspect CRT | Original |
+| Native CRT | Aspect CRT | Original | x |
 | -- | -- | -- | -- |
 |   |   |   |   |
 
 
-| Base Game Boy | With Grids | Original |
+| Base Game Boy | With Grids | Original | x |
 | -- | -- | -- | -- |
 |   |   |   |   |
 
-| Base Game Boy Color | With Grids | Original |
+| Base Game Boy Color | With Grids | Original | x |
 | -- | -- | -- | -- |
 |   |   |   |   |
 
-| Base Game Boy Advance | With Grids | Original |
+| Base Game Boy Advance | With Grids | Original | x |
 | -- | -- | -- | -- |
 |   |   |   |   |
 
-| Base Game Gear | With Grids | Original |
+| Base Game Gear | With Grids | Original | x |
 | -- | -- | -- | -- |
 |   |   |   |   |
 
-| Base NGPC | With Grids | Original |
+| Base NGPC | With Grids | Original | x |
 | -- | -- | -- | -- |
 |   |   |   |   |
 
