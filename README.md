@@ -54,7 +54,7 @@ All overlays have a depth effect that probably took me longer to perfect than it
 
 ## Installation
 
-Unzip the ZIP file and drag its contents into the **root** of your SD card. Alternatively, you can manually select the overlay you want and place it into the corresponding emulator folder inside the **Overlay** directory.
+Unzip the ZIP file and drag its contents into the **root** of your SD card. Alternatively, you can manually select the overlay you want and place it into the corresponding emulator folder inside the **Overlays** directory.
 
 Inside each folder, you’ll find at least three overlays. *Overlay1* is always the base version—clean, with no gridlines, scanlines, or color effects. *Overlay2* includes the gridline or scanline effect with 1px that I think works best. *Overlay3* is for anyone who wants a strong grid or scanline effect—the pixel lines are much thicker on this one.
 
