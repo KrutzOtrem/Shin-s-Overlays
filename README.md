@@ -36,7 +36,7 @@ All overlays have a depth effect that probably took me longer to perfect than it
 
 | Base Game Boy Advance | With Perfect Grids  | With Double Steps | Sample |
 | -- | -- | -- | -- |
-| ![overlay1](https://github.com/user-attachments/assets/4348ad9f-6b44-4a84-8194-de58a0384525) | ![overlay2](https://github.com/user-attachments/assets/60bd5368-cd58-4100-a4d5-b90e65b784a3) | ![overlay3](https://github.com/user-attachments/assets/99dcdc43-a0fc-4b0e-9735-0d801cc7cf10) | Work In Progress |
+| ![overlay1](https://github.com/user-attachments/assets/4348ad9f-6b44-4a84-8194-de58a0384525) | ![overlay2](https://github.com/user-attachments/assets/4aa95bae-0382-496f-98b3-b689be491324) | ![overlay3](https://github.com/user-attachments/assets/5f32e159-770c-4e3c-849b-aa44769b939c) | Work In Progress |
 
 | Base Game Gear | With Perfect Grids  | With Double Steps | Sample |
 | -- | -- | -- | -- |
@@ -56,7 +56,7 @@ All overlays have a depth effect that probably took me longer to perfect than it
 
 Unzip the ZIP file and drag its contents into the **root** of your SD card. Alternatively, you can manually select the overlay you want and place it into the corresponding emulator folder inside the **Overlays** directory.
 
-Inside each folder, you’ll find at least three overlays. *Overlay1* is always the base version—clean, with no gridlines, scanlines, or color effects. *Overlay2* includes the gridline or scanline effect with 1px that I think works best. *Overlay3* is for anyone who wants a strong grid or scanline effect—the pixel lines are much thicker on this one.
+Inside each folder, you’ll find at least three overlays. *Overlay1* is always the base version—clean, with no gridlines, scanlines, or color effects. *Overlay2* includes the gridline or scanline effect with 1px that I think works best. *Overlay3* is for anyone who wants a strong grid or scanline effect—the pixel lines are much noticable on this one.
 
 If you're not using a **TrimUI Brick** but another device with the same resolution, you can still use the same folder structure. In **RetroArch**, you can manually select the overlay folders. For detailed instructions, please refer to the official RetroArch manual on **Libretro**'s GitHub page.
 
