@@ -77,7 +77,7 @@ Working In Progress
 
 ### GB
 
-For Game Boy enjoyers, the grids are colored to match the original GB palette, and you'll find four different overlay layers. *Overlay1 to 3* follow the same structure as the others, but *Overlay4* features a green transparent background that mimics the original Game Boy's screen palette. *Overlay4*... To be honest, I probably overdid it. If you want a DMG look, that’s entirely possible with Overlay2 and some specific colorization settings.
+For Game Boy enjoyers, the grids are colored to match the original GB palette, and you'll find five different overlay layers. *Overlay1 to 3* follow the same structure as the others, but *Overlay4* features a green transparent background that mimics the original Game Boy's screen palette. *Overlay5*... To be honest, I probably overdid it. If you want a DMG look, that’s entirely possible with Overlay2 and some specific colorization settings.
 
 Since everyone’s taste is different, I recommend experimenting with emulator colorization settings to see what works best for you. That said, these overlays were designed with GBC (Game Boy Color) palettes in mind. I know some consider that blasphemy, but personally, I think the color definition is quite solid. Plus, the overlay colorization I used brings those GBC tones closer to the classic DMG feel.
 
