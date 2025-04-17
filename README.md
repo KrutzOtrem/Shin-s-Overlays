@@ -6,7 +6,9 @@ Greetings! In this repository, I’ll be sharing overlays and backgrounds I’ve
 
 Although I’ll continue updating this repository, the first full theme I’m sharing is called *Pearly Gate*. The menu design is inspired by CRTs, and each emulator overlay is crafted from original console samples—but reimagined with a modern colors palettes that suits the overall theme.
 
-I know this style won’t suit everyone, so I’ll also be creating other designs and color palettes, along with matching backgrounds to go with them. I'll also include the *Vanilla* version in case you’d prefer not to match the overlay with your theme. All overlays include a depth effect that probably took me longer to perfect than it should have. I didn’t make separate versions without it, but if you're not a fan, feel free to DM me and I’ll send you a set without the effect.
+I know this style won’t suit everyone, so I’ll also be creating other designs and color palettes, along with matching backgrounds to go with them. I'll also include the *Vanilla* version in case you’d prefer not to match the overlay with your theme. 
+
+All overlays include a depth effect that probably took me longer to perfect than it should have. I didn’t make separate versions without it, but if you're not a fan, feel free to DM me and I’ll send you a set without the effect.
 
 
 ## Preview
