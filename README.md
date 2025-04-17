@@ -1,4 +1,4 @@
-# Shin's Overlays for 1024x768 Handhelds, TrimUI in Specific
+# Shin's Overlays for 1024x768 Handhelds, Brick in Specific
 
 ## Preface
 
