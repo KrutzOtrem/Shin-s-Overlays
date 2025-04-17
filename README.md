@@ -49,7 +49,7 @@ All overlays have a depth effect that probably took me longer to perfect than it
 ### Vanilla Overlays
 | Game Boy | Game Boy Color | Game Boy Advance | Game Gear | Neogeo Pocket & Color |
 | -- | -- | -- | -- | -- |
-| ![overlay1](https://github.com/user-attachments/assets/8950323f-7236-45e2-941c-0355cb8b60bf) | ![overlay1](https://github.com/user-attachments/assets/819ff9a1-3a4f-4d30-97c8-b17ec61b86a0) | ![overlay1](https://github.com/user-attachments/assets/c9cf2b23-e8a5-4a91-89ab-3bba6623b25b) | ![overlay1](https://github.com/user-attachments/assets/718a6129-e810-4d20-9253-b265d6f7cfaa) | ![overlay1](https://github.com/user-attachments/assets/0433e17c-2d3e-4eb8-b2aa-b66aea941f57) |
+| ![overlay1](https://github.com/user-attachments/assets/b1c60b8f-57f1-4a37-be53-5a004e14c717) | ![overlay1](https://github.com/user-attachments/assets/819ff9a1-3a4f-4d30-97c8-b17ec61b86a0) | ![overlay1](https://github.com/user-attachments/assets/c9cf2b23-e8a5-4a91-89ab-3bba6623b25b) | ![overlay1](https://github.com/user-attachments/assets/718a6129-e810-4d20-9253-b265d6f7cfaa) | ![overlay1](https://github.com/user-attachments/assets/0433e17c-2d3e-4eb8-b2aa-b66aea941f57) |
 
 
 ## Installation
