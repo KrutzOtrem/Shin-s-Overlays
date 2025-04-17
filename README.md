@@ -6,7 +6,7 @@ Greetings! In this repository, I’ll be sharing overlays and backgrounds I’ve
 
 Although I’ll continue updating this repository, the first full theme I’m sharing is called *Pearly Gate*. The menu design is inspired by CRTs, and each emulator overlay is crafted from original console samples—but reimagined with a modern colors palettes that suits the overall theme.
 
-I know this style won’t suit everyone, so I’ll also be creating other designs and color palettes, along with matching backgrounds to go with them. I'll also include the vanilla versions in case you’d prefer not to match the overlay with your theme. All overlays include a depth effect that probably took me longer to perfect than it should have. I didn’t make separate versions without it, but if you're not a fan, feel free to DM me and I’ll send you a set without the effect.
+I know this style won’t suit everyone, so I’ll also be creating other designs and color palettes, along with matching backgrounds to go with them. I'll also include the *Vanilla* version in case you’d prefer not to match the overlay with your theme. All overlays include a depth effect that probably took me longer to perfect than it should have. I didn’t make separate versions without it, but if you're not a fan, feel free to DM me and I’ll send you a set without the effect.
 
 
 ## Preview
@@ -52,19 +52,19 @@ I know this style won’t suit everyone, so I’ll also be creating other design
 
 ## Installation
 
-Unzip the ZIP file and drag its contents into the root of your SD card. Alternatively, you can manually select the overlay you want and place it into the corresponding emulator folder inside the 'Overlay' directory.
+Unzip the ZIP file and drag its contents into the **root** of your SD card. Alternatively, you can manually select the overlay you want and place it into the corresponding emulator folder inside the **Overlay** directory.
 
-Inside each folder, you’ll find at least three overlays. Overlay1 is always the base version—clean, with no gridlines, scanlines, or color effects. Overlay2 includes the gridline or scanline effect with 1px that I think works best. Overlay3 is for anyone who wants a strong grid or scanline effect—the pixel lines are much thicker on this one.
+Inside each folder, you’ll find at least three overlays. *Overlay1* is always the base version—clean, with no gridlines, scanlines, or color effects. *Overlay2* includes the gridline or scanline effect with 1px that I think works best. *Overlay3* is for anyone who wants a strong grid or scanline effect—the pixel lines are much thicker on this one.
 
-If you're not using a TrimUI Brick but another device with the same resolution, you can still use the same folder structure. In RetroArch, you can manually select the overlay folders. For detailed instructions, please refer to the official RetroArch manual on Libretro's GitHub page.
+If you're not using a **TrimUI Brick** but another device with the same resolution, you can still use the same folder structure. In **RetroArch**, you can manually select the overlay folders. For detailed instructions, please refer to the official RetroArch manual on **Libretro**'s GitHub page.
 
-All overlays are designed for native scaling, except for those made for home consoles. In that case, please use aspect ratio scaling instead.
+All overlays are designed for **native** scaling, except for those made for home consoles. In that case, please use aspect ratio scaling instead.
 
 ## Font
 
-For these four themes, I’m using the Medodica Regular font, and I highly recommend it!
+For these four themes, I’m using the **Medodica Regular** font, and I highly recommend it!
 
-To install it, simply download the font file and drag it into the root of your SD card. Alternatively, you can navigate through the folders until you find font1.ttf, then drag it into .system/res/.
+To install it, simply download the font file and drag it into the root of your SD card. Alternatively, you can navigate through the folders until you find font1.ttf, then drag it into *.system/res/*.
 
 
 ## Specific Configuration
@@ -79,13 +79,12 @@ For Game Boy enjoyers, the grids are colored to match the original GB palette, a
 
 Since everyone’s taste is different, I recommend experimenting with emulator colorization settings to see what works best for you. That said, these overlays were designed with GBC (Game Boy Color) palettes in mind. I know some consider that blasphemy, but personally, I think the color definition is quite solid. Plus, the overlay colorization I used brings those GBC tones closer to the classic DMG feel.
 
-If you're aiming for a more old-school vibe, Overlay4 probably gets you the closest.
-My personal favorite is Overlay2, paired with GBC colorization and simple blending.
+If you're aiming for a more old-school vibe, *Overlay4* probably gets you the closest. My personal favorite is *Overlay2*, paired with *GBC* colorization and *simple blending*.
 
 
 ## Feedback
 
-Please don’t hesitate to reach out to me on Discord — #pseudoinsomniac — if you have any feedback on these overlays. I’m happy to share the PSD files or the custom grids I created in Paint.net. If you have suggestions for improvements, I’d genuinely appreciate hearing them. I’ll be updating these anyway, so I might as well get them right.
+Please don’t hesitate to reach out to me on Discord — **#pseudoinsomniac** — if you have any feedback on these overlays. I’m happy to share the PSD files or the custom grids I created in Paint.net. If you have suggestions for improvements, I’d genuinely appreciate hearing them. I’ll be updating these anyway, so I might as well get them right.
 
 I already have custom-made CRT Native overlays, but they’re a bit sloppy at the moment since I suck at the brush, so I’d rather wait until they look at least passable before sharing them.
 
