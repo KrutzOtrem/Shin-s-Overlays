@@ -14,7 +14,7 @@ All overlays, except those for home consoles (CRT), will be designed for integer
 
 ## Preview
 
-| Pearly Gate Background | Deep Ocean Background | Morning Background | Space Background |
+| Pearly Gate Background | Bottomless Ocean Background | Early Morning Background | Deep Space Background |
 | -- | -- | -- | -- |
 | ![bgpearlygate](https://github.com/user-attachments/assets/ef986914-43fe-41fc-a27f-be7f96cfa23f) | ![bgdeepocean](https://github.com/user-attachments/assets/97cb1baf-bad8-4421-8ff8-16cfbf43bfea) |  ![bgmorning](https://github.com/user-attachments/assets/391802b6-699d-4f11-b76c-3bebf21649b2) | ![bgspace](https://github.com/user-attachments/assets/f017893a-7f4b-45c3-8e8a-91c5915d2b02) |
 
@@ -24,13 +24,13 @@ All overlays, except those for home consoles (CRT), will be designed for integer
 |   |   |   |   |
 
 
-| Base Game Boy | With Grids | Original | x |
+| Base Game Boy | With Grids | DMG Grids & Background | x |
 | -- | -- | -- | -- |
-|   |   |   |   |
+|  ![overlay1](https://github.com/user-attachments/assets/470b409c-7d11-4c1b-aec7-36f06b8d6ff7) |  ![overlay2](https://github.com/user-attachments/assets/bf9bb41b-1415-487d-8ed3-9295faed052c) |  ![overlay4](https://github.com/user-attachments/assets/7ceca12f-525c-420e-9212-71e8f5102ba7) |   |
 
-| Base Game Boy Color | With Grids | Original | x |
+| Base Game Boy Color | With Grids | With 2px Grids | x |
 | -- | -- | -- | -- |
-|   |   |   |   |
+|  ![overlay1](https://github.com/user-attachments/assets/6c2657cb-de7f-42f3-b7bc-eb82ee264d30) |  ![overlay2](https://github.com/user-attachments/assets/af8fc4be-da3b-45d8-a8ed-3367af42f79a)|  ![overlay3](https://github.com/user-attachments/assets/44ff91f5-50de-4738-8408-de4c968218c9) |   |
 
 | Base Game Boy Advance | With Grids | Original | x |
 | -- | -- | -- | -- |
