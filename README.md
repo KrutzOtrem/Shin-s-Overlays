@@ -6,7 +6,7 @@ Greetings! In this repository, I’ll be sharing overlays and backgrounds I’ve
 
 Although I’ll continue updating this repository, the first full theme I’m sharing is called *Pearly Gate*. The menu design is inspired by CRTs, and each emulator overlay is crafted from original console samples—but reimagined with a modern colors palettes that suits the overall theme.
 
-I know this style won’t suit everyone, so I’ll also be creating other designs and color palettes, along with matching backgrounds to go with them. I'll also include the vanilla versions in case you’d prefer not to match the overlay with your theme.
+I know this style won’t suit everyone, so I’ll also be creating other designs and color palettes, along with matching backgrounds to go with them. I'll also include the vanilla versions in case you’d prefer not to match the overlay with your theme. All overlays include a depth effect that probably took me longer to perfect than it should have. I didn’t make separate versions without it, but if you're not a fan, feel free to DM me and I’ll send you a set without the effect.
 
 
 ## Preview
@@ -74,9 +74,18 @@ Working In Progress
 
 ### GB
 
-For Game Boy enojeys, the grids are colored to match the original GB palette, and you'll find four different overlay layers. Overlays 1 to 3 follow the same structure as the others, but Overlay4 features a transparent background that mimics the original Game Boy's screen background.
+For Game Boy enjoyers, the grids are colored to match the original GB palette, and you'll find four different overlay layers. Overlays 1 to 3 follow the same structure as the others, but Overlay4 features a transparent background that mimics the original Game Boy's screen background.
 
 Since everyone’s taste is different, I recommend experimenting with emulator colorization settings to see what works best for you. That said, these overlays were designed with GBC (Game Boy Color) palettes in mind. I know some consider that blasphemy, but personally, I think the color definition is quite solid. Plus, the overlay colorization I used brings those GBC tones closer to the classic DMG feel.
 
 If you're aiming for a more old-school vibe, Overlay4 probably gets you the closest.
 My personal favorite is Overlay2, paired with GBC colorization and simple blending.
+
+
+## Feedback
+
+Please don’t hesitate to reach out to me on Discord — #pseudoinsomniac — if you have any feedback on these overlays. I’m happy to share the PSD files or the custom grids I created in Paint.net. If you have suggestions for improvements, I’d genuinely appreciate hearing them. I’ll be updating these anyway, so I might as well get them right.
+
+I already have custom-made CRT Native overlays, but they’re a bit sloppy at the moment since I suck at the brush, so I’d rather wait until they look at least passable before sharing them.
+
+As for samples, I’ll upload them whenever I get the chance. But if you’re good with a camera, feel free to send me some shots—whether it’s just one or a few, so I can share. 
