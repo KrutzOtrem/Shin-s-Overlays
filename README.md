@@ -2,7 +2,7 @@
 
 ## Preface
 
-Greetings! In this repository, I’ll be sharing overlays and backgrounds I’ve created for my white TrimUI Brick.
+Greetings! In this repository, I’ll be sharing overlays and backgrounds I’ve created for my white Trimui Brick.
 
 Although I’ll keep updating this repository, the first full theme I’m sharing is called *Pearly Gate*. The menu design takes inspiration from CRTs, and the emulator overlays are all based on original console samples—just reworked with modern color palettes to match the overall vibe.
 
