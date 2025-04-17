@@ -23,7 +23,7 @@ All overlays have a depth effect that probably took me longer to perfect than it
 
 | Native CRT | Aspect CRT | Aspect CRT with Scanlines | x |
 | -- | -- | -- | -- |
-| Working In Progress  |  ![overlay1](https://github.com/user-attachments/assets/cc7b2aa5-f73f-4076-8cf5-6d171337c5a0) |  ![overlay2](https://github.com/user-attachments/assets/626897af-1b71-48e7-ade0-22e960037672) |  Work In Progress |
+| Work In Progress  |  ![overlay1](https://github.com/user-attachments/assets/cc7b2aa5-f73f-4076-8cf5-6d171337c5a0) |  ![overlay2](https://github.com/user-attachments/assets/626897af-1b71-48e7-ade0-22e960037672) |  Work In Progress |
 
 
 | Pearly Gate's Base Game Boy | With Grids | DMG Grids & Background | Sample |
@@ -73,7 +73,7 @@ To install it, simply download the font file and drag it into the root of your S
 
 ### CRT
 
-Working In Progress
+Work In Progress
 
 ### GB
 
