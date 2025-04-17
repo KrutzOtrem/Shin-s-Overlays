@@ -30,19 +30,19 @@ All overlays have a depth effect that probably took me longer to perfect than it
 | -- | -- | -- | -- |
 | ![overlay1](https://github.com/user-attachments/assets/4ac0a1b4-2d35-4480-a378-f161aac6325c) | ![overlay2](https://github.com/user-attachments/assets/3a90c674-7103-4bc7-8843-f13e91b66984) | ![overlay3](https://github.com/user-attachments/assets/1430f742-55fa-45e0-9e31-9016f0d557db) | Work In Progress |
 
-| Base Game Boy Color | With 1px Grids | With 2px Grids | Sample |
+| Base Game Boy Color | With Perfect Grids | With Double Steps | Sample |
 | -- | -- | -- | -- |
 | ![overlay1](https://github.com/user-attachments/assets/6c2657cb-de7f-42f3-b7bc-eb82ee264d30) | ![overlay2](https://github.com/user-attachments/assets/af8fc4be-da3b-45d8-a8ed-3367af42f79a) | ![overlay3](https://github.com/user-attachments/assets/44ff91f5-50de-4738-8408-de4c968218c9) | Work In Progress |
 
-| Base Game Boy Advance | With 1px Grids  | With 2px Grids | Sample |
+| Base Game Boy Advance | With Perfect Grids  | With Double Steps | Sample |
 | -- | -- | -- | -- |
 | ![overlay1](https://github.com/user-attachments/assets/4348ad9f-6b44-4a84-8194-de58a0384525) | ![overlay2](https://github.com/user-attachments/assets/60bd5368-cd58-4100-a4d5-b90e65b784a3) | ![overlay3](https://github.com/user-attachments/assets/99dcdc43-a0fc-4b0e-9735-0d801cc7cf10) | Work In Progress |
 
-| Base Game Gear | With 1px Grids  | With 2px Grids | Sample |
+| Base Game Gear | With Perfect Grids  | With Double Steps | Sample |
 | -- | -- | -- | -- |
 | ![overlay1](https://github.com/user-attachments/assets/c276761e-313a-4a81-b142-19e61129e4c6) | ![overlay2](https://github.com/user-attachments/assets/4dfc4a2d-196b-4b57-900a-8603f2b408e6) | ![overlay3](https://github.com/user-attachments/assets/9ad0ba9a-685f-4861-9753-00a5db2128c0) | Work In Progress |
 
-| Base NGPC | With 1px Grids | With 2px Grids | Sample |
+| Base NGPC | With Perfect Grids | With Double Steps | Sample |
 | -- | -- | -- | -- |
 | ![overlay1](https://github.com/user-attachments/assets/6f3ce3f0-9b26-4549-86e3-2a5c263a258f) | ![overlay2](https://github.com/user-attachments/assets/cc02bbad-78a3-44c9-a96a-d5d7cc590b5c) | ![overlay3](https://github.com/user-attachments/assets/685b0f47-a846-43a4-b33a-ef19c3a217fe) | Work In Progress |
 
