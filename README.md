@@ -11,12 +11,15 @@ I know this style won’t suit everyone, so I’ll also be creating other design
 
 ## Preview
 
+### Backgrouds
+
 | Pearly Gate Background | Bottomless Ocean Background | Early Morning Background | Deep Space Background |
 | -- | -- | -- | -- |
 | ![bgpearlygate](https://github.com/user-attachments/assets/ef986914-43fe-41fc-a27f-be7f96cfa23f) | ![bgdeepocean](https://github.com/user-attachments/assets/97cb1baf-bad8-4421-8ff8-16cfbf43bfea) |  ![bgmorning](https://github.com/user-attachments/assets/391802b6-699d-4f11-b76c-3bebf21649b2) | ![bgspace](https://github.com/user-attachments/assets/f017893a-7f4b-45c3-8e8a-91c5915d2b02) |
 
+### Overlays
 
-| Native CRT | Aspect CRT | Aspect CRT with Scanline | x |
+| Native CRT | Aspect CRT | Aspect CRT with Scanlines | x |
 | -- | -- | -- | -- |
 | Working In Progress  |  ![overlay1](https://github.com/user-attachments/assets/cc7b2aa5-f73f-4076-8cf5-6d171337c5a0) |  ![overlay2](https://github.com/user-attachments/assets/626897af-1b71-48e7-ade0-22e960037672) |  Working In Progress |
 
@@ -41,6 +44,11 @@ I know this style won’t suit everyone, so I’ll also be creating other design
 | -- | -- | -- | -- |
 |  ![overlay1](https://github.com/user-attachments/assets/6f3ce3f0-9b26-4549-86e3-2a5c263a258f)|  ![overlay2](https://github.com/user-attachments/assets/cc02bbad-78a3-44c9-a96a-d5d7cc590b5c) |  ![overlay3](https://github.com/user-attachments/assets/685b0f47-a846-43a4-b33a-ef19c3a217fe) | Working In Progress  |
 
+### Vanilla Overlays
+| Game Boy | Game Boy Color | Game Boy Advance | Game Gear | Neogeo Pocket & Color |
+| -- | -- | -- | -- | -- |
+| ![overlay1](https://github.com/user-attachments/assets/8950323f-7236-45e2-941c-0355cb8b60bf) | ![overlay1](https://github.com/user-attachments/assets/819ff9a1-3a4f-4d30-97c8-b17ec61b86a0) | ![overlay1](https://github.com/user-attachments/assets/c9cf2b23-e8a5-4a91-89ab-3bba6623b25b) | ![overlay1](https://github.com/user-attachments/assets/718a6129-e810-4d20-9253-b265d6f7cfaa) | ![overlay1](https://github.com/user-attachments/assets/0433e17c-2d3e-4eb8-b2aa-b66aea941f57) |
+
 
 ## Installation
 
@@ -50,6 +58,12 @@ Inside each folder, you’ll find at least three overlays. Overlay1 is always th
 
 
 All overlays are designed for native scaling, except for those made for home consoles. In that case, please use aspect ratio scaling instead.
+
+## Font
+
+For these four themes, I’m using the Medodica Regular font, and I highly recommend it!
+
+To install it, simply download the font file and drag it into the root of your SD card. Alternatively, you can navigate through the folders until you find font1.ttf, then drag it into .system/res/.
 
 
 ## Specific Configuration
