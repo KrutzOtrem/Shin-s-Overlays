@@ -28,7 +28,7 @@ All overlays have a depth effect that probably took me longer to perfect than it
 
 | Pearly Gate's Base Game Boy | With Grids | DMG Grids & Background | Sample |
 | -- | -- | -- | -- |
-|  ![overlay1](https://github.com/user-attachments/assets/470b409c-7d11-4c1b-aec7-36f06b8d6ff7) |  ![overlay2](https://github.com/user-attachments/assets/bf9bb41b-1415-487d-8ed3-9295faed052c) |  ![overlay4](https://github.com/user-attachments/assets/7ceca12f-525c-420e-9212-71e8f5102ba7) | Working In Progress  |
+|  ![overlay1](https://github.com/user-attachments/assets/470b409c-7d11-4c1b-aec7-36f06b8d6ff7) |  ![overlay2](https://github.com/user-attachments/assets/bf9bb41b-1415-487d-8ed3-9295faed052c) |  ![overlay4](https://github.com/user-attachments/assets/3f61f33a-e170-423a-8c41-6bb81a6ac3f1) | Working In Progress  |
 
 | Pearly Gate's Base Game Boy Color | With 1px Grids | With 2px Grids | Sample |
 | -- | -- | -- | -- |
