@@ -18,7 +18,7 @@ I know this style won’t suit everyone, so I’ll also be creating other design
 
 | Native CRT | Aspect CRT | Aspect CRT with Scanline | x |
 | -- | -- | -- | -- |
-| Working In Progress  |  ![overlay1](https://github.com/user-attachments/assets/3372ca53-1806-4f1b-a45c-a3efa9898c8b)|  ![overlay2](https://github.com/user-attachments/assets/626897af-1b71-48e7-ade0-22e960037672)|  Working In Progress |
+| Working In Progress  |  ![overlay1](https://github.com/user-attachments/assets/cc7b2aa5-f73f-4076-8cf5-6d171337c5a0) |  ![overlay2](https://github.com/user-attachments/assets/626897af-1b71-48e7-ade0-22e960037672) |  Working In Progress |
 
 
 | Pearly Gate's Base Game Boy | With Grids | DMG Grids & Background | Sample |
