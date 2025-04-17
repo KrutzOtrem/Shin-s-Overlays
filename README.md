@@ -56,6 +56,7 @@ Unzip the ZIP file and drag its contents into the root of your SD card. Alternat
 
 Inside each folder, you’ll find at least three overlays. Overlay1 is always the base version—clean, with no gridlines, scanlines, or color effects. Overlay2 includes the gridline or scanline effect with 1px that I think works best. Overlay3 is for anyone who wants a strong grid or scanline effect—the pixel lines are much thicker on this one.
 
+If you're not using a TrimUI Brick but another device with the same resolution, you can still use the same folder structure. In RetroArch, you can manually select the overlay folders. For detailed instructions, please refer to the official RetroArch manual on Libretro's GitHub page.
 
 All overlays are designed for native scaling, except for those made for home consoles. In that case, please use aspect ratio scaling instead.
 
