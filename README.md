@@ -16,9 +16,9 @@ I know this style won’t suit everyone, so I’ll also be creating other design
 | ![bgpearlygate](https://github.com/user-attachments/assets/ef986914-43fe-41fc-a27f-be7f96cfa23f) | ![bgdeepocean](https://github.com/user-attachments/assets/97cb1baf-bad8-4421-8ff8-16cfbf43bfea) |  ![bgmorning](https://github.com/user-attachments/assets/391802b6-699d-4f11-b76c-3bebf21649b2) | ![bgspace](https://github.com/user-attachments/assets/f017893a-7f4b-45c3-8e8a-91c5915d2b02) |
 
 
-| Native CRT | Aspect CRT | Original | x |
+| Native CRT | Aspect CRT | Aspect CRT with Scanline | x |
 | -- | -- | -- | -- |
-| Working In Progress  | Working In Progress  |  Working In Progress |  Working In Progress |
+| Working In Progress  |  ![overlay1](https://github.com/user-attachments/assets/3372ca53-1806-4f1b-a45c-a3efa9898c8b)|  ![overlay2](https://github.com/user-attachments/assets/626897af-1b71-48e7-ade0-22e960037672)|  Working In Progress |
 
 
 | Pearly Gate's Base Game Boy | With Grids | DMG Grids & Background | Sample |
@@ -48,7 +48,8 @@ Unzip the ZIP file and drag its contents into the root of your SD card. Alternat
 
 Inside each folder, you’ll find at least three overlays. Overlay1 is always the base version—clean, with no gridlines, scanlines, or color effects. Overlay2 includes the gridline or scanline effect with 1px that I think works best. Overlay3 is for anyone who wants a strong grid or scanline effect—the pixel lines are much thicker on this one.
 
-All overlays, except those for home consoles (CRT), will be designed for integer scaling only.
+
+All overlays are designed for native scaling, except for those made for home consoles. In that case, please use aspect ratio scaling instead.
 
 
 ## Specific Configuration
