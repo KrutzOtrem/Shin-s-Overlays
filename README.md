@@ -26,25 +26,29 @@ All overlays have a depth effect that probably took me longer to perfect than it
 | Work In Progress  |  ![overlay1](https://github.com/user-attachments/assets/cc7b2aa5-f73f-4076-8cf5-6d171337c5a0) |  ![overlay2](https://github.com/user-attachments/assets/626897af-1b71-48e7-ade0-22e960037672) |  Work In Progress |
 
 
-| Base Game Boy | With Grids | With Colorization | Sample |
+| Base Game Boy | With Grids | With DMG Colorization | Sample |
 | -- | -- | -- | -- |
 | ![overlay1](https://github.com/user-attachments/assets/4ac0a1b4-2d35-4480-a378-f161aac6325c) | ![overlay2](https://github.com/user-attachments/assets/3a90c674-7103-4bc7-8843-f13e91b66984) | ![overlay3](https://github.com/user-attachments/assets/1430f742-55fa-45e0-9e31-9016f0d557db) | Work In Progress |
 
-| Base Game Boy Color | With Perfect Grids | With Double Steps | Sample |
+| Base Game Boy Color | With Perfect Grids | With LCD Grids | Sample |
 | -- | -- | -- | -- |
-| ![overlay1](https://github.com/user-attachments/assets/6c2657cb-de7f-42f3-b7bc-eb82ee264d30) | ![overlay2](https://github.com/user-attachments/assets/af8fc4be-da3b-45d8-a8ed-3367af42f79a) | ![overlay3](https://github.com/user-attachments/assets/44ff91f5-50de-4738-8408-de4c968218c9) | Work In Progress |
+| ![overlay1](https://github.com/user-attachments/assets/6c2657cb-de7f-42f3-b7bc-eb82ee264d30) | ![overlay2](https://github.com/user-attachments/assets/af8fc4be-da3b-45d8-a8ed-3367af42f79a) | ![overlay3](https://github.com/user-attachments/assets/8a11b22a-31f4-4db2-aa06-0865447823b1) | Work In Progress |
 
-| Base Game Boy Advance | With Perfect Grids  | With Double Steps | Sample |
+| Base Game Boy Advance | With Perfect Grids  | With LCD Grids | Sample |
 | -- | -- | -- | -- |
-| ![overlay1](https://github.com/user-attachments/assets/4348ad9f-6b44-4a84-8194-de58a0384525) | ![overlay2](https://github.com/user-attachments/assets/4aa95bae-0382-496f-98b3-b689be491324) | ![overlay3](https://github.com/user-attachments/assets/5f32e159-770c-4e3c-849b-aa44769b939c) | Work In Progress |
+| ![overlay1](https://github.com/user-attachments/assets/4348ad9f-6b44-4a84-8194-de58a0384525) | ![overlay2](https://github.com/user-attachments/assets/4aa95bae-0382-496f-98b3-b689be491324) | ![overlay3](https://github.com/user-attachments/assets/92128809-9d3a-4fc7-a2d9-b23fabcd2d68) | Work In Progress |
 
-| Base Game Gear | With Perfect Grids  | With Double Steps | Sample |
+| Base Game Gear | With Perfect Grids  | With LCD Grids | Sample |
 | -- | -- | -- | -- |
-| ![overlay1](https://github.com/user-attachments/assets/c276761e-313a-4a81-b142-19e61129e4c6) | ![overlay2](https://github.com/user-attachments/assets/4dfc4a2d-196b-4b57-900a-8603f2b408e6) | ![overlay3](https://github.com/user-attachments/assets/9ad0ba9a-685f-4861-9753-00a5db2128c0) | Work In Progress |
+| ![overlay1](https://github.com/user-attachments/assets/c276761e-313a-4a81-b142-19e61129e4c6) | ![overlay2](https://github.com/user-attachments/assets/4dfc4a2d-196b-4b57-900a-8603f2b408e6) | ![overlay3](https://github.com/user-attachments/assets/03d300cc-5095-4bcc-ae76-39959e02fae8) | Work In Progress |
 
-| Base NGPC | With Perfect Grids | With Double Steps | Sample |
+| Base NGPC | With Perfect Grids | With LCD Grids | Sample |
 | -- | -- | -- | -- |
-| ![overlay1](https://github.com/user-attachments/assets/6f3ce3f0-9b26-4549-86e3-2a5c263a258f) | ![overlay2](https://github.com/user-attachments/assets/cc02bbad-78a3-44c9-a96a-d5d7cc590b5c) | ![overlay3](https://github.com/user-attachments/assets/685b0f47-a846-43a4-b33a-ef19c3a217fe) | Work In Progress |
+| ![overlay1](https://github.com/user-attachments/assets/6f3ce3f0-9b26-4549-86e3-2a5c263a258f) | ![overlay2](https://github.com/user-attachments/assets/cc02bbad-78a3-44c9-a96a-d5d7cc590b5c) | ![overlay3](https://github.com/user-attachments/assets/c6bbf463-3ed9-4582-95be-2b8f6a5658fc) | Work In Progress |
+
+| Base LYNX | With Perfect Grids | With LCD Grids | Sample |
+| -- | -- | -- | -- |
+| ![overlay1](https://github.com/user-attachments/assets/08baa5ab-edd5-42f2-a127-b1e9a2e63679) | ![overlay2](https://github.com/user-attachments/assets/a7651f91-a30a-4ab1-8410-e06498fe3196) | ![overlay3](https://github.com/user-attachments/assets/3a1afa2b-6a37-489d-a6df-77cf0190d32a) | Work In Progress |
 
 ### Vanilla Overlays
 | Game Boy | Game Boy Color | Game Boy Advance | Game Gear | Neogeo Pocket & Color |
@@ -56,7 +60,7 @@ All overlays have a depth effect that probably took me longer to perfect than it
 
 Unzip the ZIP file and drag its contents into the **root** of your SD card. Alternatively, you can manually select the overlay you want and place it into the corresponding emulator folder inside the **Overlays** directory.
 
-Inside each folder, you’ll find at least three overlays. *Overlay1* is always the base version—clean, with no gridlines, scanlines, or color effects. *Overlay2* includes the gridline or scanline effect with 1px that I think works best. *Overlay3* is for anyone who wants a strong grid or scanline effect—the pixel lines are much noticable on this one.
+Inside each folder, you’ll find at least three overlays. *Overlay1* is always the base version—clean, with no gridlines, scanlines, or color effects. *Overlay2* includes the gridline or scanline effect with 1px that I think works best. *Overlay3* is for anyone looking for an LCD grid effect. Just a heads-up 'tho, since I used red-green-blue grids for this overlay, there’s a slight, inevitable color tint shift—but I actually prefer this look, and I know some friends who do too.
 
 If you're not using a **TrimUI Brick** but another device with the same resolution, you can still use the same folder structure. In **RetroArch**, you can manually select the overlay folders. For detailed instructions, please refer to the official RetroArch manual on **Libretro**'s GitHub page.
 
