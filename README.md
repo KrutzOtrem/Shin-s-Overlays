@@ -83,7 +83,7 @@ All overlays are designed for **native** scaling, except for those made for home
 
 Both the Overlay and Folder Background releases come with matching root backgrounds. To install them, simply place the bg.png file in the root directory of your SD card.
 
-For folder backgrounds, drop them into your Roms folder. If you're using custom folder names, you’ll need to place them individually. For those using the stock PICO core, manual placement is required.
+For folder backgrounds, **if you are not using custom folder names**, drop them into the root of your SD Card. If you're using custom folder names, you’ll need to place them individually. For those using the stock PICO core, manual placement is required.
 
 I’ll be making frequent updates, so if you’re not satisfied with something, feel free to check back later—it might’ve changed. I’ll also be adding more color palettes over time.
 
