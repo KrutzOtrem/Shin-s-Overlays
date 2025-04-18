@@ -51,10 +51,15 @@ All overlays have a depth effect that probably took me longer to perfect than it
 | -- | -- | -- | -- |
 | ![overlay1](https://github.com/user-attachments/assets/08baa5ab-edd5-42f2-a127-b1e9a2e63679) | ![overlay2](https://github.com/user-attachments/assets/a7651f91-a30a-4ab1-8410-e06498fe3196) | ![overlay3](https://github.com/user-attachments/assets/3a1afa2b-6a37-489d-a6df-77cf0190d32a) | Work In Progress |
 
-### Vanilla Overlays
-| GB | GBC | GBA | Game Gear | NGPC | Lync |
+### Vanilla
+| GB | GBC | GBA | Game Gear | NGPC | Lynx |
 | -- | -- | -- | -- | -- | -- |
 | ![overlay1](https://github.com/user-attachments/assets/b1c60b8f-57f1-4a37-be53-5a004e14c717) | ![overlay1](https://github.com/user-attachments/assets/819ff9a1-3a4f-4d30-97c8-b17ec61b86a0) | ![overlay1](https://github.com/user-attachments/assets/c9cf2b23-e8a5-4a91-89ab-3bba6623b25b) | ![overlay1](https://github.com/user-attachments/assets/718a6129-e810-4d20-9253-b265d6f7cfaa) | ![overlay1](https://github.com/user-attachments/assets/0433e17c-2d3e-4eb8-b2aa-b66aea941f57) | ![overlay1](https://github.com/user-attachments/assets/429dc905-e0c7-496b-a18c-7873f12c8e13) |
+
+### Bottomless Ocean
+| GB | GBC | GBA | Game Gear | NGPC | Lynx |
+| -- | -- | -- | -- | -- | -- |
+| ![overlay1](https://github.com/user-attachments/assets/d9904d83-3e29-4244-aeab-4134c5ad704a) | ![overlay1](https://github.com/user-attachments/assets/8699a45b-f54a-4442-afae-b8aa77204e2e) | ![overlay1](https://github.com/user-attachments/assets/aab06a0b-0831-4797-9f6f-837fb2d2da17) | ![overlay1](https://github.com/user-attachments/assets/d90f3c54-76f7-4692-aa27-0f2618b1450b) | ![overlay1](https://github.com/user-attachments/assets/08eb6bcf-f704-485b-b146-6540fa60073c) | ![overlay1](https://github.com/user-attachments/assets/e49e937c-e07e-416a-b102-0e03dd8beed3) |
 
 
 
