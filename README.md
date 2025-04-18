@@ -47,14 +47,15 @@ All overlays have a depth effect that probably took me longer to perfect than it
 | -- | -- | -- | -- |
 | ![overlay1](https://github.com/user-attachments/assets/6f3ce3f0-9b26-4549-86e3-2a5c263a258f) | ![overlay2](https://github.com/user-attachments/assets/cc02bbad-78a3-44c9-a96a-d5d7cc590b5c) | ![overlay3](https://github.com/user-attachments/assets/c6bbf463-3ed9-4582-95be-2b8f6a5658fc) | Work In Progress |
 
-| Base LYNX | With Perfect Grids | With LCD Grids | Sample |
+| Base Lynx | With Perfect Grids | With LCD Grids | Sample |
 | -- | -- | -- | -- |
 | ![overlay1](https://github.com/user-attachments/assets/08baa5ab-edd5-42f2-a127-b1e9a2e63679) | ![overlay2](https://github.com/user-attachments/assets/a7651f91-a30a-4ab1-8410-e06498fe3196) | ![overlay3](https://github.com/user-attachments/assets/3a1afa2b-6a37-489d-a6df-77cf0190d32a) | Work In Progress |
 
 ### Vanilla Overlays
-| Game Boy | Game Boy Color | Game Boy Advance | Game Gear | Neogeo Pocket & Color |
-| -- | -- | -- | -- | -- |
-| ![overlay1](https://github.com/user-attachments/assets/b1c60b8f-57f1-4a37-be53-5a004e14c717) | ![overlay1](https://github.com/user-attachments/assets/819ff9a1-3a4f-4d30-97c8-b17ec61b86a0) | ![overlay1](https://github.com/user-attachments/assets/c9cf2b23-e8a5-4a91-89ab-3bba6623b25b) | ![overlay1](https://github.com/user-attachments/assets/718a6129-e810-4d20-9253-b265d6f7cfaa) | ![overlay1](https://github.com/user-attachments/assets/0433e17c-2d3e-4eb8-b2aa-b66aea941f57) |
+| Game Boy | Game Boy Color | Game Boy Advance | Game Gear | Neogeo Pocket & Color | Lync |
+| -- | -- | -- | -- | -- | -- |
+| ![overlay1](https://github.com/user-attachments/assets/b1c60b8f-57f1-4a37-be53-5a004e14c717) | ![overlay1](https://github.com/user-attachments/assets/819ff9a1-3a4f-4d30-97c8-b17ec61b86a0) | ![overlay1](https://github.com/user-attachments/assets/c9cf2b23-e8a5-4a91-89ab-3bba6623b25b) | ![overlay1](https://github.com/user-attachments/assets/718a6129-e810-4d20-9253-b265d6f7cfaa) | ![overlay1](https://github.com/user-attachments/assets/0433e17c-2d3e-4eb8-b2aa-b66aea941f57) | ![overlay1](https://github.com/user-attachments/assets/429dc905-e0c7-496b-a18c-7873f12c8e13) |
+
 
 
 ## Installation
