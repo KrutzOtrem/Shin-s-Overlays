@@ -1,4 +1,4 @@
-# Shin's Overlays for 1024x768 Handhelds, Brick in Specific
+# Shin's Overlays and Themes for 1024x768 Handhelds, Brick in Particular
 
 ## Preface
 
