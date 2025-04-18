@@ -2,7 +2,7 @@
 
 ## Preface
 
-Greetings! In this repository, I’ll be sharing overlays and backgrounds I’ve created for my white Trimui Brick.
+Greetings! In this repository, I’ll be sharing overlays, themes, and backgrounds I’ve created for my white Trimui Brick.
 
 Although I’ll keep updating this repository, the first full theme I’m sharing is called *Pearly Gate*. The menu design takes inspiration from CRTs, and the emulator overlays are all based on original console samples—just reworked with modern color palettes to match the overall vibe.
 
@@ -69,7 +69,7 @@ All overlays have a depth effect that probably took me longer to perfect than it
 
 
 
-## Installation
+## Installation for the Overlays
 
 Unzip the ZIP file and drag its contents into the **root** of your SD card. Alternatively, you can manually select the overlay you want and place it into the corresponding emulator folder inside the **Overlays** directory.
 
@@ -79,7 +79,15 @@ If you're not using a **TrimUI Brick** but another device with the same resoluti
 
 All overlays are designed for **native** scaling, except for those made for home consoles. In that case, please use aspect ratio scaling instead.
 
-## Font
+## Installation for the Folder Backgrounds
+
+Both the Overlay and Folder Background releases come with matching root backgrounds. To install them, simply place the bg.png file in the root directory of your SD card.
+
+For folder backgrounds, drop them into your Roms folder. If you're using custom folder names, you’ll need to place them individually. For those using the stock PICO core, manual placement is required.
+
+I’ll be making frequent updates, so if you’re not satisfied with something, feel free to check back later—it might’ve changed. I’ll also be adding more color palettes over time.
+
+## Installation for the Font
 
 For these four themes, I’m using the **Medodica Regular** font, and I highly recommend it!
 
