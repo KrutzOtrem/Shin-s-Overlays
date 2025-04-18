@@ -14,11 +14,17 @@ All overlays have a depth effect that probably took me longer to perfect than it
 
 ## Preview
 
-### Backgrouds
+### Themes
 
 | Pearly Gate Background | Bottomless Ocean Background | Early Morning Background | Deep Space Background |
 | -- | -- | -- | -- |
 | ![bgpearlygate](https://github.com/user-attachments/assets/ef986914-43fe-41fc-a27f-be7f96cfa23f) | ![bgdeepocean](https://github.com/user-attachments/assets/97cb1baf-bad8-4421-8ff8-16cfbf43bfea) |  ![bgmorning](https://github.com/user-attachments/assets/391802b6-699d-4f11-b76c-3bebf21649b2) | ![bgspace](https://github.com/user-attachments/assets/f017893a-7f4b-45c3-8e8a-91c5915d2b02) |
+
+### Folder backgrounds
+
+| NES | SNES | GB | GBA |
+| -- | -- | -- | -- |
+| ![bg](https://github.com/user-attachments/assets/4d0a65e9-f632-497c-92be-7fc4827bc938) | ![bg](https://github.com/user-attachments/assets/1c81637f-93dd-407a-ac74-1f0c5f026d1d) | ![bg](https://github.com/user-attachments/assets/85fb5c70-a522-472d-b9d3-c524eee7155b) | ![bg](https://github.com/user-attachments/assets/59fc7f24-4ebd-44d9-a652-b702e1c75df4) |
 
 ### Pearly Gate's Overlays
 
