@@ -28,34 +28,34 @@ All overlays have a depth effect that probably took me longer to perfect than it
 
 ### Pearly Gate's Overlays
 
-| Native CRT | Aspect CRT | Aspect CRT with Scanlines | x |
-| -- | -- | -- | -- |
-| Work In Progress  |  ![overlay1](https://github.com/user-attachments/assets/cc7b2aa5-f73f-4076-8cf5-6d171337c5a0) |  ![overlay2](https://github.com/user-attachments/assets/626897af-1b71-48e7-ade0-22e960037672) |  Work In Progress |
+| Aspect CRT | Aspect CRT with Scanlines |
+| -- | -- |
+| ![overlay1](https://github.com/user-attachments/assets/cc7b2aa5-f73f-4076-8cf5-6d171337c5a0) | ![overlay2](https://github.com/user-attachments/assets/626897af-1b71-48e7-ade0-22e960037672) |
 
 
-| Base GB | Grids | DMG | Sample |
-| -- | -- | -- | -- |
-| ![overlay1](https://github.com/user-attachments/assets/4ac0a1b4-2d35-4480-a378-f161aac6325c) | ![overlay2](https://github.com/user-attachments/assets/3a90c674-7103-4bc7-8843-f13e91b66984) | ![overlay3](https://github.com/user-attachments/assets/1430f742-55fa-45e0-9e31-9016f0d557db) | Work In Progress |
+| Base GB | Grids | DMG |
+| -- | -- | -- |
+| ![overlay1](https://github.com/user-attachments/assets/4ac0a1b4-2d35-4480-a378-f161aac6325c) | ![overlay2](https://github.com/user-attachments/assets/3a90c674-7103-4bc7-8843-f13e91b66984) | ![overlay3](https://github.com/user-attachments/assets/1430f742-55fa-45e0-9e31-9016f0d557db) |
 
-| Base GBC | Perfect Grids | LCD Grids | Sample |
-| -- | -- | -- | -- |
-| ![overlay1](https://github.com/user-attachments/assets/6c2657cb-de7f-42f3-b7bc-eb82ee264d30) | ![overlay2](https://github.com/user-attachments/assets/af8fc4be-da3b-45d8-a8ed-3367af42f79a) | ![overlay3](https://github.com/user-attachments/assets/8a11b22a-31f4-4db2-aa06-0865447823b1) | Work In Progress |
+| Base GBC | Perfect Grids | LCD Grids |
+| -- | -- | -- |
+| ![overlay1](https://github.com/user-attachments/assets/6c2657cb-de7f-42f3-b7bc-eb82ee264d30) | ![overlay2](https://github.com/user-attachments/assets/af8fc4be-da3b-45d8-a8ed-3367af42f79a) | ![overlay3](https://github.com/user-attachments/assets/8a11b22a-31f4-4db2-aa06-0865447823b1) |
 
-| Base GBA | Perfect Grids  | LCD Grids | Sample |
-| -- | -- | -- | -- |
-| ![overlay1](https://github.com/user-attachments/assets/4348ad9f-6b44-4a84-8194-de58a0384525) | ![overlay2](https://github.com/user-attachments/assets/4aa95bae-0382-496f-98b3-b689be491324) | ![overlay3](https://github.com/user-attachments/assets/92128809-9d3a-4fc7-a2d9-b23fabcd2d68) | Work In Progress |
+| Base GBA | Perfect Grids  | LCD Grids |
+| -- | -- | -- |
+| ![overlay1](https://github.com/user-attachments/assets/4348ad9f-6b44-4a84-8194-de58a0384525) | ![overlay2](https://github.com/user-attachments/assets/4aa95bae-0382-496f-98b3-b689be491324) | ![overlay3](https://github.com/user-attachments/assets/92128809-9d3a-4fc7-a2d9-b23fabcd2d68) |
 
-| Base GG | Perfect Grids  | LCD Grids | Sample |
-| -- | -- | -- | -- |
-| ![overlay1](https://github.com/user-attachments/assets/c276761e-313a-4a81-b142-19e61129e4c6) | ![overlay2](https://github.com/user-attachments/assets/4dfc4a2d-196b-4b57-900a-8603f2b408e6) | ![overlay3](https://github.com/user-attachments/assets/03d300cc-5095-4bcc-ae76-39959e02fae8) | Work In Progress |
+| Base GG | Perfect Grids | LCD Grids |
+| -- | -- | -- |
+| ![overlay1](https://github.com/user-attachments/assets/c276761e-313a-4a81-b142-19e61129e4c6) | ![overlay2](https://github.com/user-attachments/assets/4dfc4a2d-196b-4b57-900a-8603f2b408e6) | ![overlay3](https://github.com/user-attachments/assets/03d300cc-5095-4bcc-ae76-39959e02fae8) |
 
-| Base NGPC | Perfect Grids | LCD Grids | Sample |
-| -- | -- | -- | -- |
-| ![overlay1](https://github.com/user-attachments/assets/6f3ce3f0-9b26-4549-86e3-2a5c263a258f) | ![overlay2](https://github.com/user-attachments/assets/cc02bbad-78a3-44c9-a96a-d5d7cc590b5c) | ![overlay3](https://github.com/user-attachments/assets/c6bbf463-3ed9-4582-95be-2b8f6a5658fc) | Work In Progress |
+| Base NGPC | Perfect Grids | LCD Grids |
+| -- | -- | -- |
+| ![overlay1](https://github.com/user-attachments/assets/6f3ce3f0-9b26-4549-86e3-2a5c263a258f) | ![overlay2](https://github.com/user-attachments/assets/cc02bbad-78a3-44c9-a96a-d5d7cc590b5c) | ![overlay3](https://github.com/user-attachments/assets/c6bbf463-3ed9-4582-95be-2b8f6a5658fc) |
 
-| Base Lynx | Perfect Grids | LCD Grids | Sample |
+| Base Lynx | Perfect Grids | LCD Grids |
 | -- | -- | -- | -- |
-| ![overlay1](https://github.com/user-attachments/assets/08baa5ab-edd5-42f2-a127-b1e9a2e63679) | ![overlay2](https://github.com/user-attachments/assets/a7651f91-a30a-4ab1-8410-e06498fe3196) | ![overlay3](https://github.com/user-attachments/assets/3a1afa2b-6a37-489d-a6df-77cf0190d32a) | Work In Progress |
+| ![overlay1](https://github.com/user-attachments/assets/08baa5ab-edd5-42f2-a127-b1e9a2e63679) | ![overlay2](https://github.com/user-attachments/assets/a7651f91-a30a-4ab1-8410-e06498fe3196) | ![overlay3](https://github.com/user-attachments/assets/3a1afa2b-6a37-489d-a6df-77cf0190d32a) |
 
 ### Vanilla
 | GB | GBC | GBA | GG | NGPC | Lynx |
