@@ -41,7 +41,7 @@ All overlays have a depth effect that probably took me longer to perfect than it
 | -- | -- | -- |
 | ![overlay1](https://github.com/user-attachments/assets/6c2657cb-de7f-42f3-b7bc-eb82ee264d30) | ![overlay2](https://github.com/user-attachments/assets/af8fc4be-da3b-45d8-a8ed-3367af42f79a) | ![overlay3](https://github.com/user-attachments/assets/8a11b22a-31f4-4db2-aa06-0865447823b1) |
 
-| Base GBA | Perfect Grids  | LCD Grids |
+| Base GBA | Perfect Grids | LCD Grids |
 | -- | -- | -- |
 | ![overlay1](https://github.com/user-attachments/assets/4348ad9f-6b44-4a84-8194-de58a0384525) | ![overlay2](https://github.com/user-attachments/assets/4aa95bae-0382-496f-98b3-b689be491324) | ![overlay3](https://github.com/user-attachments/assets/92128809-9d3a-4fc7-a2d9-b23fabcd2d68) |
 
@@ -54,7 +54,7 @@ All overlays have a depth effect that probably took me longer to perfect than it
 | ![overlay1](https://github.com/user-attachments/assets/6f3ce3f0-9b26-4549-86e3-2a5c263a258f) | ![overlay2](https://github.com/user-attachments/assets/cc02bbad-78a3-44c9-a96a-d5d7cc590b5c) | ![overlay3](https://github.com/user-attachments/assets/c6bbf463-3ed9-4582-95be-2b8f6a5658fc) |
 
 | Base Lynx | Perfect Grids | LCD Grids |
-| -- | -- | -- | -- |
+| -- | -- | -- |
 | ![overlay1](https://github.com/user-attachments/assets/08baa5ab-edd5-42f2-a127-b1e9a2e63679) | ![overlay2](https://github.com/user-attachments/assets/a7651f91-a30a-4ab1-8410-e06498fe3196) | ![overlay3](https://github.com/user-attachments/assets/3a1afa2b-6a37-489d-a6df-77cf0190d32a) |
 
 ### Vanilla
