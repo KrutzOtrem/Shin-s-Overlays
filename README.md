@@ -24,7 +24,7 @@ All overlays have a depth effect that probably took me longer to perfect than it
 
 | NES | SNES | GB | GBA |
 | -- | -- | -- | -- |
-| ![bg](https://github.com/user-attachments/assets/4d0a65e9-f632-497c-92be-7fc4827bc938) | ![bg](https://github.com/user-attachments/assets/1c81637f-93dd-407a-ac74-1f0c5f026d1d) | ![bg](https://github.com/user-attachments/assets/85fb5c70-a522-472d-b9d3-c524eee7155b) | ![bg](https://github.com/user-attachments/assets/59fc7f24-4ebd-44d9-a652-b702e1c75df4) |
+| ![NES](https://github.com/user-attachments/assets/c0253d21-e872-4674-8a8f-37143b6248ea) | ![SNES](https://github.com/user-attachments/assets/2c75c36c-cc36-417e-b3f2-75563c1181a6) | ![GB](https://github.com/user-attachments/assets/3d2c6ed6-dcac-4ad9-a3d8-14f44b96fc7e) | ![GBA](https://github.com/user-attachments/assets/92abe2f9-f9de-4d74-8d39-5e5ebff67a17) |
 
 ### Pearly Gate's Overlays
 
