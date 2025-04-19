@@ -33,9 +33,9 @@ All overlays have a depth effect that probably took me longer to perfect than it
 | ![overlay1](https://github.com/user-attachments/assets/cc7b2aa5-f73f-4076-8cf5-6d171337c5a0) | ![overlay2](https://github.com/user-attachments/assets/626897af-1b71-48e7-ade0-22e960037672) |
 
 
-| Base GB | Grids | DMG | Sample |
-| -- | -- | -- | -- |
-| ![DuckTales 2025-04-20-02-56-03](https://github.com/user-attachments/assets/fe529640-c3ce-4e43-9cae-c1a9b6ef4bd4) | ![DuckTales 2025-04-20-02-56-09](https://github.com/user-attachments/assets/7f565164-50a9-40a4-92cb-1647f9f0934e) | ![overlay3](https://github.com/user-attachments/assets/1430f742-55fa-45e0-9e31-9016f0d557db) | ![DuckTales 2025-04-20-02-52-21](https://github.com/user-attachments/assets/050bc279-68de-4bd7-91da-1869b452ac08) |
+| Base GB | Grids | DMG |
+| -- | -- | -- |
+| ![DuckTales 2025-04-20-02-56-03](https://github.com/user-attachments/assets/fe529640-c3ce-4e43-9cae-c1a9b6ef4bd4) | ![DuckTales 2025-04-20-02-56-09](https://github.com/user-attachments/assets/7f565164-50a9-40a4-92cb-1647f9f0934e) | ![DuckTales 2025-04-20-02-52-21](https://github.com/user-attachments/assets/050bc279-68de-4bd7-91da-1869b452ac08) |
 
 
 | Base GBC | Perfect Grids | LCD Grids |
