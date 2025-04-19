@@ -79,6 +79,8 @@ If you're not using a **TrimUI Brick** but another device with the same resoluti
 
 All overlays are designed for **native** scaling, except for those made for home consoles. In that case, please use aspect ratio scaling instead.
 
+*I've added aspect ratio overlays for Vanilla only. But please be aware that if you're using overlay5, which has LCD grids, you can expect pixel misalignment and blurry sections. That's inevitable due to the non-integer scaling. Either play without the grids, which is overlay4, or get used to playing with native scaling, which offers the best experience for the closest to true pixel placements.*
+
 ## Installation for the Folder Backgrounds
 
 Both the Overlay and Folder Background releases come with matching root backgrounds. To install them, simply place the bg.png file in the root directory of your SD card.
