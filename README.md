@@ -10,7 +10,7 @@ I know this style won’t suit everyone, so I’ll also be creating other design
 
 All overlays have a depth effect that probably took me longer to perfect than it should have. I didn’t make separate versions without it, but if you're not a fan, feel free to DM me and I’ll send you a set without the effect.
 
-*Last significant overhaul: 18/04*
+*Last significant overhaul: 20/04*
 
 ## Preview
 
