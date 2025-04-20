@@ -63,6 +63,12 @@ All overlays have a depth effect that probably took me longer to perfect than it
 | -- | -- | -- | -- | -- | -- |
 | ![overlay1](https://github.com/user-attachments/assets/b1c60b8f-57f1-4a37-be53-5a004e14c717) | ![overlay1](https://github.com/user-attachments/assets/819ff9a1-3a4f-4d30-97c8-b17ec61b86a0) | ![overlay1](https://github.com/user-attachments/assets/c9cf2b23-e8a5-4a91-89ab-3bba6623b25b) | ![overlay1](https://github.com/user-attachments/assets/718a6129-e810-4d20-9253-b265d6f7cfaa) | ![overlay1](https://github.com/user-attachments/assets/0433e17c-2d3e-4eb8-b2aa-b66aea941f57) | ![overlay1](https://github.com/user-attachments/assets/429dc905-e0c7-496b-a18c-7873f12c8e13) |
 
+
+### Deep Space
+| GB | GBC | GBA | GG | NGPC | Lynx |
+| -- | -- | -- | -- | -- | -- |
+| ![overlay1](https://github.com/user-attachments/assets/29c88164-995d-49a0-ba0f-e5336a14cf81) | ![overlay1](https://github.com/user-attachments/assets/5bcf8eb3-1f0d-4802-909c-fc904d0cb0de) | ![overlay1](https://github.com/user-attachments/assets/84dd000e-0310-453b-82f6-4b08e9ca37f6) | ![overlay1](https://github.com/user-attachments/assets/9cb18760-e389-48f8-9f12-6cb84d9eb053) | ![overlay1](https://github.com/user-attachments/assets/f7b4a4f6-9da8-40a7-aca9-c81f83f33525) |![overlay1](https://github.com/user-attachments/assets/e4d8a401-2904-4556-80e4-1eb65db02e94) |
+
 ### Bottomless Ocean
 | GB | GBC | GBA | GG | NGPC | Lynx |
 | -- | -- | -- | -- | -- | -- |
