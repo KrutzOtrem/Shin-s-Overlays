@@ -40,7 +40,7 @@ All overlays have a depth effect that probably took me longer to perfect than it
 
 | Base GBC | Perfect Grids | LCD Grids |
 | -- | -- | -- |
-| ![overlay1](https://github.com/user-attachments/assets/6c2657cb-de7f-42f3-b7bc-eb82ee264d30) | ![overlay2](https://github.com/user-attachments/assets/af8fc4be-da3b-45d8-a8ed-3367af42f79a) | ![overlay3](https://github.com/user-attachments/assets/8a11b22a-31f4-4db2-aa06-0865447823b1) |
+| ![Legend of Zelda, The - Link's Awakening DX 2025-04-20-03-06-25](https://github.com/user-attachments/assets/955f77a1-67ce-4f89-a63c-1231ea302a22) | ![Legend of Zelda, The - Link's Awakening DX 2025-04-20-03-06-32](https://github.com/user-attachments/assets/feaa2790-82f4-4191-bfa2-370ac4327d21) | ![Legend of Zelda, The - Link's Awakening DX 2025-04-20-03-14-31](https://github.com/user-attachments/assets/778c1568-a8da-4607-be80-bfb73ee25a42) |
 
 | Base GBA | Perfect Grids | LCD Grids |
 | -- | -- | -- |
