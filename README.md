@@ -28,9 +28,9 @@ All overlays have a depth effect that probably took me longer to perfect than it
 
 ### Pearly Gate's Overlays
 
-| Aspect CRT | Aspect CRT with Scanlines |
+| Aspect CRT | Scanlines (WIP) |
 | -- | -- |
-| ![overlay1](https://github.com/user-attachments/assets/cc7b2aa5-f73f-4076-8cf5-6d171337c5a0) | ![overlay2](https://github.com/user-attachments/assets/626897af-1b71-48e7-ade0-22e960037672) |
+| ![Darkwing Duck 2025-04-20-02-59-06](https://github.com/user-attachments/assets/a2afe876-0be2-46db-b78e-eca5d20cd2aa) | ![Darkwing Duck 2025-04-20-02-59-14](https://github.com/user-attachments/assets/e5181fa5-5e08-4039-95a1-869c74ca8bca) |
 
 
 | Base GB | Grids | DMG |
