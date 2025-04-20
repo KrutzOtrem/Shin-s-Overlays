@@ -4,9 +4,7 @@
 
 Greetings! In this repository, I’ll be sharing overlays, themes, and backgrounds I’ve created for my white Trimui Brick.
 
-Although I’ll keep updating this repository, the first full theme I’m sharing is called *Pearly Gate*. The menu design takes inspiration from CRTs, and the emulator overlays are all based on original console samples—just reworked with modern color palettes to match the overall vibe.
-
-I know this style won’t suit everyone, so I’ll also be creating other designs and color palettes, along with matching backgrounds to go with them. I'll also include the *Vanilla* version in case you’d prefer not to match the overlay with your theme. 
+Although there are four main themes in this repository, if you're only interested in vanilla overlays, you'll find them under the Vanilla tag. Otherwise, the menu design draws inspiration from CRT aesthetics, and the emulator overlays are all based on original console samples—just reworked with modern color palettes to match the overall vibe.
 
 All overlays have a depth effect that probably took me longer to perfect than it should have. I didn’t make separate versions without it, but if you're not a fan, feel free to DM me and I’ll send you a set without the effect.
 
