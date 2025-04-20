@@ -56,8 +56,8 @@ All overlays have a depth effect that probably took me longer to perfect than it
 
 | Base Lynx | Perfect Grids | LCD Grids |
 | -- | -- | -- |
-| ![Batman Returns 2025-04-20-03-47-27](https://github.com/user-attachments/assets/615370c8-d0cb-4eba-9520-65f4501d8ea7) | ![Batman Returns 2025-04-20-03-47-46](https://github.com/user-attachments/assets/f0fdd43c-5fda-4d54-bad3-149d4453abfd) | ![Batman Returns 2025-04-20-03-48-00](https://github.com/user-attachments/assets/1678a8d1-52cb-4d73-a4ef-5318dfef6b65)
- |
+| ![Batman Returns 2025-04-20-03-47-27](https://github.com/user-attachments/assets/615370c8-d0cb-4eba-9520-65f4501d8ea7) | ![Batman Returns 2025-04-20-03-47-46](https://github.com/user-attachments/assets/f0fdd43c-5fda-4d54-bad3-149d4453abfd) | ![Batman Returns 2025-04-20-03-48-00](https://github.com/user-attachments/assets/1678a8d1-52cb-4d73-a4ef-5318dfef6b65) |
+
 ### Vanilla
 | GB | GBC | GBA | GG | NGPC | Lynx |
 | -- | -- | -- | -- | -- | -- |
