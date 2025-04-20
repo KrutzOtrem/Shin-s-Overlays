@@ -44,7 +44,7 @@ All overlays have a depth effect that probably took me longer to perfect than it
 
 | Base GBA | Perfect Grids | LCD Grids |
 | -- | -- | -- |
-| ![overlay1](https://github.com/user-attachments/assets/4348ad9f-6b44-4a84-8194-de58a0384525) | ![overlay2](https://github.com/user-attachments/assets/4aa95bae-0382-496f-98b3-b689be491324) | ![overlay3](https://github.com/user-attachments/assets/92128809-9d3a-4fc7-a2d9-b23fabcd2d68) |
+| ![Pokemon Emerald Seaglass 2025-04-20-03-20-30](https://github.com/user-attachments/assets/9b646ba8-26bd-4517-aa40-bd2385732c5e) | ![Pokemon Emerald Seaglass 2025-04-20-03-20-36](https://github.com/user-attachments/assets/b13e6085-9044-46eb-9979-f8417802cee8) | ![Pokemon Emerald Seaglass 2025-04-20-03-23-57](https://github.com/user-attachments/assets/a397d510-9f3e-4ba6-aad8-5e289d178f70) |
 
 | Base GG | Perfect Grids | LCD Grids |
 | -- | -- | -- |
