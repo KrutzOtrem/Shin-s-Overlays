@@ -48,7 +48,7 @@ All overlays have a depth effect that probably took me longer to perfect than it
 
 | Base GG | Perfect Grids | LCD Grids |
 | -- | -- | -- |
-| ![overlay1](https://github.com/user-attachments/assets/c276761e-313a-4a81-b142-19e61129e4c6) | ![overlay2](https://github.com/user-attachments/assets/4dfc4a2d-196b-4b57-900a-8603f2b408e6) | ![overlay3](https://github.com/user-attachments/assets/03d300cc-5095-4bcc-ae76-39959e02fae8) |
+| ![Streets of Rage 2 2025-04-20-03-35-21](https://github.com/user-attachments/assets/396bd25e-a2e0-410e-818e-a892dbd7e299) | ![Streets of Rage 2 2025-04-20-03-35-26](https://github.com/user-attachments/assets/27c311ae-4417-4398-879d-2de39edb42a6) | ![Streets of Rage 2 2025-04-20-03-35-33](https://github.com/user-attachments/assets/9db8779e-cd84-4aef-b2ad-efcdb995f0ce) |
 
 | Base NGPC | Perfect Grids | LCD Grids |
 | -- | -- | -- |
