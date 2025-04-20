@@ -52,7 +52,7 @@ All overlays have a depth effect that probably took me longer to perfect than it
 
 | Base NGPC | Perfect Grids | LCD Grids |
 | -- | -- | -- |
-| ![overlay1](https://github.com/user-attachments/assets/6f3ce3f0-9b26-4549-86e3-2a5c263a258f) | ![overlay2](https://github.com/user-attachments/assets/cc02bbad-78a3-44c9-a96a-d5d7cc590b5c) | ![overlay3](https://github.com/user-attachments/assets/c6bbf463-3ed9-4582-95be-2b8f6a5658fc) |
+| ![Sonic the Hedgehog Pocket Adventure 2025-04-20-03-42-47](https://github.com/user-attachments/assets/a39d215a-778c-4777-bb4f-254470669225) | ![Sonic the Hedgehog Pocket Adventure 2025-04-20-03-42-54](https://github.com/user-attachments/assets/744eb0a9-8386-4f8c-a62f-a8defe76b0cc) | ![Sonic the Hedgehog Pocket Adventure 2025-04-20-03-44-20](https://github.com/user-attachments/assets/b8a119c9-b139-439a-9300-5fd993187134) |
 
 | Base Lynx | Perfect Grids | LCD Grids |
 | -- | -- | -- |
