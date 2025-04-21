@@ -13,28 +13,23 @@ All overlays have a depth effect that probably took me longer to perfect than it
 ## Preview
 
 ### Themes
-
 | Pearly Gate Background | Bottomless Ocean Background | Early Morning Background | Deep Space Background |
 | -- | -- | -- | -- |
 | ![Menu](https://github.com/user-attachments/assets/a4784b4a-e6b8-4d6d-aa3a-fea4aeb60af0) | ![bgdeepocean](https://github.com/user-attachments/assets/97cb1baf-bad8-4421-8ff8-16cfbf43bfea) |  ![bgmorning](https://github.com/user-attachments/assets/391802b6-699d-4f11-b76c-3bebf21649b2) | ![bgspace](https://github.com/user-attachments/assets/f017893a-7f4b-45c3-8e8a-91c5915d2b02) |
 
 ### Example Folder Backgrounds for Pearly Gate Theme
-
 | NES | SNES | GB | GBA |
 | -- | -- | -- | -- |
 | ![NES](https://github.com/user-attachments/assets/c0253d21-e872-4674-8a8f-37143b6248ea) | ![SNES](https://github.com/user-attachments/assets/2c75c36c-cc36-417e-b3f2-75563c1181a6) | ![GB](https://github.com/user-attachments/assets/3d2c6ed6-dcac-4ad9-a3d8-14f44b96fc7e) | ![GBA](https://github.com/user-attachments/assets/92abe2f9-f9de-4d74-8d39-5e5ebff67a17) |
 
-### Pearly Gate's Overlays
-
+## Pearly Gate's Overlays
 | Aspect CRT | Scanlines (WIP) |
 | -- | -- |
 | ![Darkwing Duck 2025-04-20-02-59-06](https://github.com/user-attachments/assets/a2afe876-0be2-46db-b78e-eca5d20cd2aa) | ![Darkwing Duck 2025-04-20-02-59-14](https://github.com/user-attachments/assets/e5181fa5-5e08-4039-95a1-869c74ca8bca) |
 
-
 | Base GB | Grids | DMG |
 | -- | -- | -- |
 |  ![DuckTales 2025-04-20-02-55-56](https://github.com/user-attachments/assets/59ace7af-14cf-4a63-b9d3-02261092712d) | ![DuckTales 2025-04-20-02-56-03](https://github.com/user-attachments/assets/03879a72-1ec7-447c-b512-ac8a83fa3a26) | ![DuckTales 2025-04-20-02-52-21](https://github.com/user-attachments/assets/050bc279-68de-4bd7-91da-1869b452ac08) |
-
 
 | Base GBC | Perfect Grids | LCD Grids |
 | -- | -- | -- |
@@ -56,11 +51,12 @@ All overlays have a depth effect that probably took me longer to perfect than it
 | -- | -- | -- |
 | ![Batman Returns 2025-04-20-03-47-27](https://github.com/user-attachments/assets/615370c8-d0cb-4eba-9520-65f4501d8ea7) | ![Batman Returns 2025-04-20-03-47-46](https://github.com/user-attachments/assets/f0fdd43c-5fda-4d54-bad3-149d4453abfd) | ![Batman Returns 2025-04-20-03-48-00](https://github.com/user-attachments/assets/1678a8d1-52cb-4d73-a4ef-5318dfef6b65) |
 
+## Other Color Schemes
+
 ### Vanilla
 | GB | GBC | GBA | GG | NGPC | Lynx |
 | -- | -- | -- | -- | -- | -- |
 | ![overlay1](https://github.com/user-attachments/assets/b1c60b8f-57f1-4a37-be53-5a004e14c717) | ![overlay1](https://github.com/user-attachments/assets/819ff9a1-3a4f-4d30-97c8-b17ec61b86a0) | ![overlay1](https://github.com/user-attachments/assets/c9cf2b23-e8a5-4a91-89ab-3bba6623b25b) | ![overlay1](https://github.com/user-attachments/assets/718a6129-e810-4d20-9253-b265d6f7cfaa) | ![overlay1](https://github.com/user-attachments/assets/0433e17c-2d3e-4eb8-b2aa-b66aea941f57) | ![overlay1](https://github.com/user-attachments/assets/429dc905-e0c7-496b-a18c-7873f12c8e13) |
-
 
 ### Deep Space
 | GB | GBC | GBA | GG | NGPC | Lynx |
@@ -72,11 +68,10 @@ All overlays have a depth effect that probably took me longer to perfect than it
 | -- | -- | -- | -- | -- | -- |
 | ![overlay1](https://github.com/user-attachments/assets/d9904d83-3e29-4244-aeab-4134c5ad704a) | ![overlay1](https://github.com/user-attachments/assets/8699a45b-f54a-4442-afae-b8aa77204e2e) | ![overlay1](https://github.com/user-attachments/assets/aab06a0b-0831-4797-9f6f-837fb2d2da17) | ![overlay1](https://github.com/user-attachments/assets/d90f3c54-76f7-4692-aa27-0f2618b1450b) | ![overlay1](https://github.com/user-attachments/assets/08eb6bcf-f704-485b-b146-6540fa60073c) | ![overlay1](https://github.com/user-attachments/assets/e49e937c-e07e-416a-b102-0e03dd8beed3) |
 
-### Pokémon Game Boy Color Complete Edition
-
-| Pokémon Game Boy Color | Pokémon Yellow Game Boy Color | Pokémon GS Game Boy Color | Pokémon Third Anniversary Game Boy Color |
-| -- | -- | -- | -- |
-| ![overlay1](https://github.com/user-attachments/assets/d8c50158-3971-4275-8bd8-213f665cac7b) | ![overlay1](https://github.com/user-attachments/assets/7953bfa2-fc00-45a0-939e-5715cade5e11) | ![overlay1](https://github.com/user-attachments/assets/8ae344ed-6fe1-491d-8252-b4326a47d279) | ![overlay1](https://github.com/user-attachments/assets/de947077-5769-49b7-b9c1-5aaf3a453c63) |
+### Game Boy Color Special Editions
+| Pokémon | Pokémon Yellow | Pokémon GS | Pokémon Third Anniversary| Jusco Mario Limited Edition |
+| -- | -- | -- | -- | -- |
+| ![overlay1](https://github.com/user-attachments/assets/d8c50158-3971-4275-8bd8-213f665cac7b) | ![overlay1](https://github.com/user-attachments/assets/7953bfa2-fc00-45a0-939e-5715cade5e11) | ![overlay1](https://github.com/user-attachments/assets/8ae344ed-6fe1-491d-8252-b4326a47d279) | ![overlay1](https://github.com/user-attachments/assets/de947077-5769-49b7-b9c1-5aaf3a453c63) | ![overlay1](https://github.com/user-attachments/assets/daac1b6d-2a68-4305-b7b4-d2cf24d73136) |
 
 
 
