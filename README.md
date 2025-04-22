@@ -121,6 +121,10 @@ Since everyone’s taste is different, I recommend experimenting with emulator c
 
 If you're aiming for a more old-school vibe, *Overlay3*, *GBC* colorization, *Accurate* color correction with *Simple* interframe blending probably gets you the closest.
 
+### GBA
+
+Legend of Zelda, Minish Cap Original Edition Prototype requires -30 Y offset.
+
 ## Feedback
 
 Please don’t hesitate to reach out to me on Discord — **#pseudoinsomniac** — if you have any feedback on these overlays. I’m happy to share the PSD files or the custom grids I created in Paint.net. If you have suggestions for improvements, I’d genuinely appreciate hearing them. I’ll be updating these anyway, so I might as well get them right.
