@@ -68,7 +68,7 @@ All overlays have a depth effect that probably took me longer to perfect than it
 | -- | -- | -- | -- | -- | -- |
 | ![overlay1](https://github.com/user-attachments/assets/d9904d83-3e29-4244-aeab-4134c5ad704a) | ![overlay1](https://github.com/user-attachments/assets/8699a45b-f54a-4442-afae-b8aa77204e2e) | ![overlay1](https://github.com/user-attachments/assets/aab06a0b-0831-4797-9f6f-837fb2d2da17) | ![overlay1](https://github.com/user-attachments/assets/d90f3c54-76f7-4692-aa27-0f2618b1450b) | ![overlay1](https://github.com/user-attachments/assets/08eb6bcf-f704-485b-b146-6540fa60073c) | ![overlay1](https://github.com/user-attachments/assets/e49e937c-e07e-416a-b102-0e03dd8beed3) |
 
-### Game Boy Color Special Editions
+### Special Editions
 | Pokémon E. | Pokémon Yellow E. | Pokémon GS E. | Pokémon Third Anniversary E. |
 | -- | -- | -- | -- |
 | ![overlay1](https://github.com/user-attachments/assets/d8c50158-3971-4275-8bd8-213f665cac7b) | ![overlay1](https://github.com/user-attachments/assets/7953bfa2-fc00-45a0-939e-5715cade5e11) | ![overlay1](https://github.com/user-attachments/assets/8ae344ed-6fe1-491d-8252-b4326a47d279) | ![overlay1](https://github.com/user-attachments/assets/de947077-5769-49b7-b9c1-5aaf3a453c63) | 
