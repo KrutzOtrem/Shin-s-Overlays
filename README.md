@@ -75,7 +75,7 @@ All overlays have a depth effect that probably took me longer to perfect than it
 
 | Jusco Mario Limited E. | Legend of Zelda Original E. | New York Pokémon Center |
 | -- | -- | -- |
-| ![overlay1](https://github.com/user-attachments/assets/daac1b6d-2a68-4305-b7b4-d2cf24d73136) | ![overlay1](https://github.com/user-attachments/assets/7e1284a3-b9dd-498e-b622-a7d7993e41d1) | ![GBA_Integer_Pokémon Center](https://github.com/user-attachments/assets/07d21928-d396-4032-9f1b-b0f11a57ac7d) |
+| ![overlay1](https://github.com/user-attachments/assets/daac1b6d-2a68-4305-b7b4-d2cf24d73136) | ![overlay1](https://github.com/user-attachments/assets/7e1284a3-b9dd-498e-b622-a7d7993e41d1) | ![GBA_Integer_Pokémon Center](https://github.com/user-attachments/assets/e8d87dc4-884e-463e-a851-0650808ec037) |
 
 
 
