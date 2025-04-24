@@ -68,6 +68,11 @@ All overlays have a depth effect that probably took me longer to perfect than it
 | -- | -- | -- | -- | -- | -- |
 | ![overlay1](https://github.com/user-attachments/assets/d9904d83-3e29-4244-aeab-4134c5ad704a) | ![overlay1](https://github.com/user-attachments/assets/8699a45b-f54a-4442-afae-b8aa77204e2e) | ![overlay1](https://github.com/user-attachments/assets/aab06a0b-0831-4797-9f6f-837fb2d2da17) | ![overlay1](https://github.com/user-attachments/assets/d90f3c54-76f7-4692-aa27-0f2618b1450b) | ![overlay1](https://github.com/user-attachments/assets/08eb6bcf-f704-485b-b146-6540fa60073c) | ![overlay1](https://github.com/user-attachments/assets/e49e937c-e07e-416a-b102-0e03dd8beed3) |
 
+### CRT Alternatives
+| Aspect Metallic | Aspect Pearly Gate |
+| -- | -- |
+| ![Base CRT Aspect](https://github.com/user-attachments/assets/6319b92a-c518-47c6-9fec-04895df124c0) | ![Aspect_CRT_Metalic](https://github.com/user-attachments/assets/871247f0-ba76-4d36-9dcb-6672a501ea32) |
+
 ### Special Editions
 | Pokémon E. | Pokémon Yellow E. | Pokémon GS E. | Pokémon Third Anniversary E. |
 | -- | -- | -- | -- |
