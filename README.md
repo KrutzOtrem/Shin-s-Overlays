@@ -8,14 +8,20 @@ Although there are four main themes in this repository, if you're only intereste
 
 All overlays have a depth effect that probably took me longer to perfect than it should have. I didn’t make separate versions without it, but if you're not a fan, feel free to DM me and I’ll send you a set without the effect.
 
-*Last significant overhaul: 20/04*
+*Last significant update: 25/04*
 
 ## Preview
 
+### Latest Theme, Pop-Tarts
+| Preview | NES | GBC | Tools |
+| -- | -- | -- | -- |
+| ![Preview](https://github.com/user-attachments/assets/bd0e6458-a1a1-42ba-8378-64de4d11fafe)  |  ![Nintendo Entertainment System (FC)](https://github.com/user-attachments/assets/f21ce96b-f27d-415f-9414-390790428715) | ![Game Boy Color (GBC)](https://github.com/user-attachments/assets/fd9acca5-9d2f-412f-8d08-fe6b53ed641c) | ![Tools](https://github.com/user-attachments/assets/dd226ef3-6517-49a9-ba33-e76c590ce02d) |
+
+
 ### Themes
-| Pop-Tarts | Pearly Gate | Bottomless Ocean | Early Morning | Deep Space |
-| -- | -- | -- | -- | -- |
-| ![Preview](https://github.com/user-attachments/assets/bd0e6458-a1a1-42ba-8378-64de4d11fafe) | ![Menu](https://github.com/user-attachments/assets/a4784b4a-e6b8-4d6d-aa3a-fea4aeb60af0) | ![bgdeepocean](https://github.com/user-attachments/assets/97cb1baf-bad8-4421-8ff8-16cfbf43bfea) |  ![bgmorning](https://github.com/user-attachments/assets/391802b6-699d-4f11-b76c-3bebf21649b2) | ![bgspace](https://github.com/user-attachments/assets/f017893a-7f4b-45c3-8e8a-91c5915d2b02) |
+| Pearly Gate | Bottomless Ocean | Early Morning | Deep Space |
+| -- | -- | -- | -- |
+| ![Menu](https://github.com/user-attachments/assets/a4784b4a-e6b8-4d6d-aa3a-fea4aeb60af0) | ![bgdeepocean](https://github.com/user-attachments/assets/97cb1baf-bad8-4421-8ff8-16cfbf43bfea) |  ![bgmorning](https://github.com/user-attachments/assets/391802b6-699d-4f11-b76c-3bebf21649b2) | ![bgspace](https://github.com/user-attachments/assets/f017893a-7f4b-45c3-8e8a-91c5915d2b02) |
 
 ### Example Folder Backgrounds for Pearly Gate Theme
 | NES | SNES | GB | GBA |
