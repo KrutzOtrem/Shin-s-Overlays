@@ -15,7 +15,7 @@ All overlays have a depth effect that probably took me longer to perfect than it
 ### Latest Theme, Pop-Tarts
 | Preview | NES | GBC | Tools |
 | -- | -- | -- | -- |
-| ![Preview](https://github.com/user-attachments/assets/bd0e6458-a1a1-42ba-8378-64de4d11fafe)  |  ![Nintendo Entertainment System (FC)](https://github.com/user-attachments/assets/f21ce96b-f27d-415f-9414-390790428715) | ![Game Boy Color (GBC)](https://github.com/user-attachments/assets/fd9acca5-9d2f-412f-8d08-fe6b53ed641c) | ![Tools](https://github.com/user-attachments/assets/dd226ef3-6517-49a9-ba33-e76c590ce02d) |
+| ![Preview](https://github.com/user-attachments/assets/bd0e6458-a1a1-42ba-8378-64de4d11fafe)  |  ![bg](https://github.com/user-attachments/assets/62f06d7a-cbaa-426a-9482-de7369cf00ea) | ![Game Boy Color (GBC)](https://github.com/user-attachments/assets/fd9acca5-9d2f-412f-8d08-fe6b53ed641c) | ![Tools](https://github.com/user-attachments/assets/dd226ef3-6517-49a9-ba33-e76c590ce02d) |
 
 
 ### Themes
