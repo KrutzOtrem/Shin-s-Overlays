@@ -28,10 +28,10 @@ All overlays have a depth effect that probably took me longer to perfect than it
 | -- | -- | -- | -- |
 | ![NES](https://github.com/user-attachments/assets/c0253d21-e872-4674-8a8f-37143b6248ea) | ![SNES](https://github.com/user-attachments/assets/2c75c36c-cc36-417e-b3f2-75563c1181a6) | ![GB](https://github.com/user-attachments/assets/3d2c6ed6-dcac-4ad9-a3d8-14f44b96fc7e) | ![GBA](https://github.com/user-attachments/assets/92abe2f9-f9de-4d74-8d39-5e5ebff67a17) |
 
-## Pearly Gate's Overlays
-| Aspect CRT | Scanlines (WIP) |
+## CRT Overlays
+| Native CRT | Aspect CRT |
 | -- | -- |
-| ![Darkwing Duck 2025-04-20-02-59-06](https://github.com/user-attachments/assets/a2afe876-0be2-46db-b78e-eca5d20cd2aa) | ![Darkwing Duck 2025-04-20-02-59-14](https://github.com/user-attachments/assets/e5181fa5-5e08-4039-95a1-869c74ca8bca) |
+| ![Darkwing Duck 2025-04-20-02-59-06](https://github.com/user-attachments/assets/a2afe876-0be2-46db-b78e-eca5d20cd2aa) | ![Aspect_CRT_Metalic](https://github.com/user-attachments/assets/6feabe1f-01a4-40d5-b37a-0bf28d67cd1c) |
 
 | Base GB | Grids | DMG |
 | -- | -- | -- |
