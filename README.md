@@ -19,14 +19,11 @@ All overlays have a depth effect that probably took me longer to perfect than it
 
 
 ### Themes
-| Pearly Gate | Bottomless Ocean | Early Morning | Deep Space |
+| Pearly Gate | Deep Space | Early Morning | Bottomless Ocean |
 | -- | -- | -- | -- |
-| ![Menu](https://github.com/user-attachments/assets/a4784b4a-e6b8-4d6d-aa3a-fea4aeb60af0) | ![bgdeepocean](https://github.com/user-attachments/assets/97cb1baf-bad8-4421-8ff8-16cfbf43bfea) |  ![bgmorning](https://github.com/user-attachments/assets/391802b6-699d-4f11-b76c-3bebf21649b2) | ![bgspace](https://github.com/user-attachments/assets/f017893a-7f4b-45c3-8e8a-91c5915d2b02) |
+| ![bg](https://github.com/user-attachments/assets/d7445d88-6a9d-49fb-b5bb-fd2ebb28dcba) | ![Deep Space](https://github.com/user-attachments/assets/3d0ed667-1365-43d4-832d-9cad03b6c2fb)
+ |  ![bgmorning](https://github.com/user-attachments/assets/391802b6-699d-4f11-b76c-3bebf21649b2) | ![bgdeepocean](https://github.com/user-attachments/assets/97cb1baf-bad8-4421-8ff8-16cfbf43bfea) |
 
-### Example Folder Backgrounds for Pearly Gate Theme
-| NES | SNES | GB | GBA |
-| -- | -- | -- | -- |
-| ![NES](https://github.com/user-attachments/assets/c0253d21-e872-4674-8a8f-37143b6248ea) | ![SNES](https://github.com/user-attachments/assets/2c75c36c-cc36-417e-b3f2-75563c1181a6) | ![GB](https://github.com/user-attachments/assets/3d2c6ed6-dcac-4ad9-a3d8-14f44b96fc7e) | ![GBA](https://github.com/user-attachments/assets/92abe2f9-f9de-4d74-8d39-5e5ebff67a17) |
 
 ## CRT Overlays
 | Native CRT | Aspect CRT |
