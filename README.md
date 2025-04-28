@@ -80,9 +80,9 @@ All overlays have a depth effect that probably took me longer to perfect than it
 | -- | -- | -- | -- |
 | ![overlay1](https://github.com/user-attachments/assets/d8c50158-3971-4275-8bd8-213f665cac7b) | ![overlay1](https://github.com/user-attachments/assets/7953bfa2-fc00-45a0-939e-5715cade5e11) | ![overlay1](https://github.com/user-attachments/assets/8ae344ed-6fe1-491d-8252-b4326a47d279) | ![overlay1](https://github.com/user-attachments/assets/de947077-5769-49b7-b9c1-5aaf3a453c63) | 
 
-| Jusco Mario Limited E. | Legend of Zelda Original E. | New York Pokémon Center |
-| -- | -- | -- |
-| ![overlay1](https://github.com/user-attachments/assets/daac1b6d-2a68-4305-b7b4-d2cf24d73136) | ![overlay1](https://github.com/user-attachments/assets/7e1284a3-b9dd-498e-b622-a7d7993e41d1) | ![GBA_Integer_Pokémon Center](https://github.com/user-attachments/assets/2473f7d0-14b8-4049-94dc-5eb95eaf5f8f) |
+| Jusco Mario Limited E. | Legend of Zelda Original E. | New York Pokémon Center | Celebi Special Edition |
+| -- | -- | -- | -- |
+| ![overlay1](https://github.com/user-attachments/assets/daac1b6d-2a68-4305-b7b4-d2cf24d73136) | ![overlay1](https://github.com/user-attachments/assets/7e1284a3-b9dd-498e-b622-a7d7993e41d1) | ![GBA_Integer_Pokémon Center](https://github.com/user-attachments/assets/2473f7d0-14b8-4049-94dc-5eb95eaf5f8f) | ![Celebi Special Edition](https://github.com/user-attachments/assets/edb02d6f-f2c2-404a-be4f-a1a28b1b7748) |
 
 
 
