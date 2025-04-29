@@ -400,7 +400,7 @@ If you're not using a TrimUI Brick but another device with the same resolution, 
 <details> 
   <summary><strong>Font</strong></summary>
 
-To install it, simply download the font file and drag it into the root of your **SD card**. Alternatively, you can navigate through the folders until you find *font1.ttf*, then drag it into **.system/res/**.
+To install it, simply download [the font](https://github.com/user-attachments/files/19964712/Medodica.Font.zip) file and drag it into the root of your **SD card**. Alternatively, you can navigate through the folders until you find *font1.ttf*, then drag it into **.system/res/**.
 <br>
 </details>
 
