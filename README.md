@@ -395,7 +395,7 @@ Most of my work can be found and downloaded easily through the [Theme Manager](h
 <details> 
   <summary><strong>Themes</strong></summary>
 
-Both the **Overlay** and **Theme** releases come with matching root backgrounds. To install them, simply place the *bg.png* file in the root directory of your SD card.
+Both the **Overlay** and **Theme** releases come with matching root backgrounds. To install them, simply place the *bg.png* file in the root directory of your SD card. The matching font *Medodica* can be found [here](https://github.com/user-attachments/files/19964712/Medodica.Font.zip).
 
 For **themes**, if you are not using custom folder names, drop them into the root of your **SD Card**. If you're using custom folder names, you’ll need to place them individually. For those using the stock **PICO** core, **MGBA** or **SUPA** manual placement is required.
 <br>
