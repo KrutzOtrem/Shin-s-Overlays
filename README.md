@@ -4,7 +4,7 @@
   <br>Brick in Particular
 </h1>
 
-<!-- minimal jump-links bar -->
+<!-- minimal jump-<img src="https://github.com/user-attachments/assets/44abbcda-a786-4b9f-91cb-46cf99003799" height="20">s bar -->
 <h3 align="center">
   <a href="#themes">Themes</a>&nbsp;•&nbsp;
   <a href="#themed-overlays">Themed Overlays</a>&nbsp;•&nbsp;
@@ -292,7 +292,7 @@ Most of my work can be found and downloaded easily through the [Theme Manager](h
 ## Special Edition Overlays
 
 <details>
-  <summary><strong>Game Boy •&nbsp;<a href="#">Complete Edition</a></strong></summary>
+  <summary><strong>Game Boy</strong></summary>
 
   <p>
 
@@ -301,7 +301,7 @@ Most of my work can be found and downloaded easily through the [Theme Manager](h
       <td width="33%" align="center">
         <img src="https://github.com/user-attachments/assets/54d007a2-398d-42e2-a5a6-494af7d50b58" width="100%"><br>
       <sub><em>Jusco Mario Special E. on Game Boy</em></sub><br>
-        <sub><a href="https://github.com/user-attachments/files/19964282/Jusco.Mario.Special.E.for.Game.Boy.zip">Link</a></sub>
+        <sub><a href="https://github.com/user-attachments/files/19964282/Jusco.Mario.Special.E.for.Game.Boy.zip"><img src="https://github.com/user-attachments/assets/44abbcda-a786-4b9f-91cb-46cf99003799" height="20"></a></sub>
       </td>
       <td width="33%" align="center">
      <sub><em>Coming Soon</em></sub>
@@ -324,22 +324,22 @@ Most of my work can be found and downloaded easily through the [Theme Manager](h
       <td width="25%" align="center">
         <img src="https://github.com/user-attachments/assets/fdbf8890-c519-4ce1-bd7e-38ddebe022b6" width="100%"><br>
       <sub><em>Pokémon Special E.</em></sub><br>
-        <sub><a href="https://github.com/user-attachments/files/19964559/Pokemon.Special.E.zip">Link</a></sub>
+        <sub><a href="https://github.com/user-attachments/files/19964559/Pokemon.Special.E.zip"><img src="https://github.com/user-attachments/assets/44abbcda-a786-4b9f-91cb-46cf99003799" height="20"></a></sub>
       </td>
       <td width="25%" align="center">
         <img src="https://github.com/user-attachments/assets/2df30285-9f65-438b-9bbb-1241ca4de47f" width="100%"><br>
       <sub><em>Pokémon Yellow Special E.</em></sub><br>
-        <sub><a href="https://github.com/user-attachments/files/19964568/Pokemon.Yellow.Special.E.zip">Link</a></sub>
+        <sub><a href="https://github.com/user-attachments/files/19964568/Pokemon.Yellow.Special.E.zip"><img src="https://github.com/user-attachments/assets/44abbcda-a786-4b9f-91cb-46cf99003799" height="20"></a></sub>
       </td>
       <td width="25%" align="center">
         <img src="https://github.com/user-attachments/assets/dee1e3ab-be15-4ae6-b794-32dbda98685b" width="100%"><br>
       <sub><em>Pokémon GS Special E.</em></sub><br>
-        <sub><a href="https://github.com/user-attachments/files/19964580/Pokemon.GS.Special.E.zip">Link</a></sub>
+        <sub><a href="https://github.com/user-attachments/files/19964580/Pokemon.GS.Special.E.zip"><img src="https://github.com/user-attachments/assets/44abbcda-a786-4b9f-91cb-46cf99003799" height="20"></a></sub>
       </td>
       <td width="25%" align="center">
         <img src="https://github.com/user-attachments/assets/846937e7-c434-409b-9561-89c19130fcf8" width="100%"><br>
       <sub><em>Pokémon Third Anniversary Special E.</em></sub><br>
-        <sub><a href="https://github.com/user-attachments/files/19964599/Pokemon.Third.Anniversary.Special.E.zip">Link</a></sub>
+        <sub><a href="https://github.com/user-attachments/files/19964599/Pokemon.Third.Anniversary.Special.E.zip"><img src="https://github.com/user-attachments/assets/44abbcda-a786-4b9f-91cb-46cf99003799" height="20"></a></sub>
       </td>
       </td>
     </tr>
@@ -347,7 +347,7 @@ Most of my work can be found and downloaded easily through the [Theme Manager](h
       <td width="25%" align="center">
         <img src="https://github.com/user-attachments/assets/ec972a53-976f-47b7-9351-43ad23dc5266" width="100%"><br>
       <sub><em>Jusco Mario Special E.</em></sub><br>
-        <sub><a href="https://github.com/user-attachments/files/19964608/Jusco.Mario.Special.E.zip">Link</a></sub>
+        <sub><a href="https://github.com/user-attachments/files/19964608/Jusco.Mario.Special.E.zip"><img src="https://github.com/user-attachments/assets/44abbcda-a786-4b9f-91cb-46cf99003799" height="20"></a></sub>
       </td>
       <td width="25%" align="center">
         <sub><em>Coming Soon</em></sub>
@@ -373,17 +373,17 @@ Most of my work can be found and downloaded easily through the [Theme Manager](h
       <td width="33%" align="center">
         <img src="https://github.com/user-attachments/assets/a9f0c699-ed51-4e99-aca2-ae8ee70adaf7" width="100%"><br>
       <sub><em>The Minish Cap Original E.</em></sub><br>
-      <sub><a href="https://github.com/user-attachments/files/19964634/The.Minish.Cap.Original.E.zip">Link</a></sub>
+      <sub><a href="https://github.com/user-attachments/files/19964634/The.Minish.Cap.Original.E.zip"><img src="https://github.com/user-attachments/assets/44abbcda-a786-4b9f-91cb-46cf99003799" height="20"></a></sub>
       </td>
       <td width="33%" align="center">
         <img src="https://github.com/user-attachments/assets/1967ce2a-a743-401d-acdb-2739b8fb9402" width="100%"><br>
       <sub><em>Celebi Special E.</em></sub><br>
-      <sub><a href="https://github.com/user-attachments/files/19964657/Celebi.Special.E.zip">Link</a></sub>
+      <sub><a href="https://github.com/user-attachments/files/19964657/Celebi.Special.E.zip"><img src="https://github.com/user-attachments/assets/44abbcda-a786-4b9f-91cb-46cf99003799" height="20"></a></sub>
       </td>
       <td width="33%" align="center">
         <img src="https://github.com/user-attachments/assets/9017ef8c-ca83-4a67-99f0-fbfb5cbf91f0" width="100%"><br>
       <sub><em>New York Pokémon Center Special E.</em></sub><br>
-      <sub><a href="https://github.com/user-attachments/files/19964661/New.York.Pokemon.Center.Special.E.zip">Link</a></sub>
+      <sub><a href="https://github.com/user-attachments/files/19964661/New.York.Pokemon.Center.Special.E.zip"><img src="https://github.com/user-attachments/assets/44abbcda-a786-4b9f-91cb-46cf99003799" height="20"></a></sub>
       </td>
       </td>
     </tr>
