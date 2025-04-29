@@ -1,142 +1,508 @@
-# Shin's Overlays and Themes for 1024x768 Handhelds, Brick in Particular
+<!-- ————————— HEADER ————————— -->
+<h1 align="center">
+  Shin’s Overlays and Themes for 1024 × 768 Handhelds
+  <br>Brick in Particular
+</h1>
+
+<!-- minimal jump-links bar -->
+<h3 align="center">
+  <a href="#themes">Themes</a>&nbsp;•&nbsp;
+  <a href="#themed-overlays">Themed Overlays</a>&nbsp;•&nbsp;
+  <a href="#special-edition-overlays">Special Edition Overlays</a>&nbsp;•&nbsp;
+  <a href="#installation">Installation</a>&nbsp;•&nbsp;
+  <a href="#configuration">Configuration</a>&nbsp;•&nbsp;
+  <a href="#credits">Credits</a>
+  
+</h3>
+
+<br>
+
 
 ## Preface
 
-Greetings! In this repository, I’ll be sharing overlays, themes, and backgrounds I’ve created for my white Trimui Brick.
+<details open> <!-- opened by default for introduction -->
+<summary><strong>Greetings!</strong></summary>
+</strong></summary>
+<br>
 
-Although there are four main themes in this repository, if you're only interested in vanilla overlays, you'll find them under the Vanilla tag. Otherwise, the menu design draws inspiration from CRT aesthetics, and the emulator overlays are all based on original console samples—just reworked with modern color palettes to match the overall vibe.
+In this repository, I’ll be sharing overlays, themes, and backgrounds I’ve created for my white **Trimui Brick**, using [NextUI](https://github.com/LoveRetro/NextUI).
 
-All overlays have a depth effect that probably took me longer to perfect than it should have. I didn’t make separate versions without it, but if you're not a fan, feel free to DM me and I’ll send you a set without the effect.
+The menu design draws inspiration from CRT aesthetics, and the emulator overlays are all based on original console samples—just reworked with modern color palettes to match the overall vibe of associated themes.
 
-*Last significant update: 25/04*
+In these screenshots, the custom *Mesh Grid* for home consoles and the *LCD Grid* for handhelds may not appear very pleasing—but all of these effects were designed specifically for the device screen and went through a large number of iterations. That said, admittedly, they’re not perfect, and I’ll keep working on them. 
+The same goes for the shadow that creates the depth effect—it probably took me longer to perfect than it should have, but it looks better on the actual device screen.
 
-## Preview
+Most of my work can be found and downloaded easily through the [Theme Manager](https://github.com/Leviathanium/NextUI-Theme-Manager). Otherwise, each table has associated ZIP files. 
 
-### Latest Theme, Pop-Tarts
-| Preview | NES | GBC | Tools |
-| -- | -- | -- | -- |
-| ![Preview](https://github.com/user-attachments/assets/bd0e6458-a1a1-42ba-8378-64de4d11fafe)  |  ![Nintendo Entertainment System (FC)](https://github.com/user-attachments/assets/b8e936f2-f648-426c-abc5-ff5b39258d18) | ![Game Boy Color (GBC)](https://github.com/user-attachments/assets/fd9acca5-9d2f-412f-8d08-fe6b53ed641c) | ![Tools](https://github.com/user-attachments/assets/dd226ef3-6517-49a9-ba33-e76c590ce02d) |
+**Please don’t forget to click on the arrow expanders to see the samples in table form—there’s a lot to explore!** I hope you enjoy!
 
+</details>
 
-### Themes
-| Pearly Gate | Deep Space | Early Morning | Bottomless Ocean |
-| -- | -- | -- | -- |
-| ![bg](https://github.com/user-attachments/assets/d7445d88-6a9d-49fb-b5bb-fd2ebb28dcba) | ![bg](https://github.com/user-attachments/assets/62f06d7a-cbaa-426a-9482-de7369cf00ea) |  ![bgmorning](https://github.com/user-attachments/assets/391802b6-699d-4f11-b76c-3bebf21649b2) | ![bgdeepocean](https://github.com/user-attachments/assets/97cb1baf-bad8-4421-8ff8-16cfbf43bfea) |
+<!-- ————————— PREVIEW ————————— -->
+## Themes
 
+<details open> <!-- opened by default for instant eye-candy -->
+<summary>
+  <strong>
+    Latest Themes
+  </strong>
+</summary>
 
-## CRT Overlays
-| Native CRT | Aspect CRT |
-| -- | -- |
-| ![Darkwing Duck 2025-04-20-02-59-06](https://github.com/user-attachments/assets/a2afe876-0be2-46db-b78e-eca5d20cd2aa) | ![Aspect_CRT_Metalic](https://github.com/user-attachments/assets/6feabe1f-01a4-40d5-b37a-0bf28d67cd1c) |
+<p>
 
-| Base GB | Grids | DMG |
-| -- | -- | -- |
-|  ![DuckTales 2025-04-20-02-55-56](https://github.com/user-attachments/assets/59ace7af-14cf-4a63-b9d3-02261092712d) | ![DuckTales 2025-04-20-02-56-03](https://github.com/user-attachments/assets/03879a72-1ec7-447c-b512-ac8a83fa3a26) | ![DuckTales 2025-04-20-02-52-21](https://github.com/user-attachments/assets/050bc279-68de-4bd7-91da-1869b452ac08) |
+<table width="100%" cellspacing="0" cellpadding="4" border="1">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github.com/user-attachments/assets/d8f51862-b855-4bdc-9853-334bb1f041fa" width="100%"><br>
+        <sub><a href="#">Pop-Tarts</a></sub>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github.com/user-attachments/assets/61768f31-8d61-40f0-825c-96cf352a533b" width="100%"><br>
+      <sub><a href="#">Pop-Tarts Clean</a></sub>
+    </td>
+  </tr>
+</table>
 
-| Base GBC | Perfect Grids | LCD Grids |
-| -- | -- | -- |
-| ![Legend of Zelda, The - Link's Awakening DX 2025-04-20-03-06-25](https://github.com/user-attachments/assets/955f77a1-67ce-4f89-a63c-1231ea302a22) | ![Legend of Zelda, The - Link's Awakening DX 2025-04-20-03-06-32](https://github.com/user-attachments/assets/feaa2790-82f4-4191-bfa2-370ac4327d21) | ![Legend of Zelda, The - Link's Awakening DX 2025-04-20-03-14-31](https://github.com/user-attachments/assets/778c1568-a8da-4607-be80-bfb73ee25a42) |
+</details>
 
-| Base GBA | Perfect Grids | LCD Grids |
-| -- | -- | -- |
-| ![Pokemon Emerald Seaglass 2025-04-20-03-20-30](https://github.com/user-attachments/assets/9b646ba8-26bd-4517-aa40-bd2385732c5e) | ![Pokemon Emerald Seaglass 2025-04-20-03-20-36](https://github.com/user-attachments/assets/b13e6085-9044-46eb-9979-f8417802cee8) | ![Pokemon Emerald Seaglass 2025-04-20-03-23-57](https://github.com/user-attachments/assets/a397d510-9f3e-4ba6-aad8-5e289d178f70) |
+<details>
+  <summary><strong>Complete Themes</strong></summary>
 
-| Base GG | Perfect Grids | LCD Grids |
-| -- | -- | -- |
-| ![Streets of Rage 2 2025-04-20-03-35-21](https://github.com/user-attachments/assets/396bd25e-a2e0-410e-818e-a892dbd7e299) | ![Streets of Rage 2 2025-04-20-03-35-26](https://github.com/user-attachments/assets/27c311ae-4417-4398-879d-2de39edb42a6) | ![Streets of Rage 2 2025-04-20-03-35-33](https://github.com/user-attachments/assets/9db8779e-cd84-4aef-b2ad-efcdb995f0ce) |
+  <p>
 
-| Base NGPC | Perfect Grids | LCD Grids |
-| -- | -- | -- |
-| ![Sonic the Hedgehog Pocket Adventure 2025-04-20-03-42-47](https://github.com/user-attachments/assets/a39d215a-778c-4777-bb4f-254470669225) | ![Sonic the Hedgehog Pocket Adventure 2025-04-20-03-42-54](https://github.com/user-attachments/assets/744eb0a9-8386-4f8c-a62f-a8defe76b0cc) | ![Sonic the Hedgehog Pocket Adventure 2025-04-20-03-44-20](https://github.com/user-attachments/assets/b8a119c9-b139-439a-9300-5fd993187134) |
+  <table width="100%" cellspacing="0" cellpadding="4" border="1">
+    <tr>
+      <td width="25%" align="center">
+        <img src="https://github.com/user-attachments/assets/d7445d88-6a9d-49fb-b5bb-fd2ebb28dcba" width="100%"><br>
+        <sub><a href="#">Pearly Gate</a></sub>
+      </td>
+      <td width="25%" align="center">
+        <img src="https://github.com/user-attachments/assets/62f06d7a-cbaa-426a-9482-de7369cf00ea" width="100%"><br>
+        <sub><a href="#">Deep Space</a></sub>
+      </td>
+      <td width="25%" align="center">
+        <img src="https://github.com/user-attachments/assets/391802b6-699d-4f11-b76c-3bebf21649b2" width="100%"><br>
+        <sub><a href="#">Early Morning</a></sub>
+      </td>
+      <td width="25%" align="center">
+        <img src="https://github.com/user-attachments/assets/97cb1baf-bad8-4421-8ff8-16cfbf43bfea" width="100%"><br>
+        <sub><a href="#">Bottomless Ocean</a></sub>
+      </td>
+    </tr>
+  </table>
 
-| Base Lynx | Perfect Grids | LCD Grids |
-| -- | -- | -- |
-| ![Batman Returns 2025-04-20-03-47-27](https://github.com/user-attachments/assets/615370c8-d0cb-4eba-9520-65f4501d8ea7) | ![Batman Returns 2025-04-20-03-47-46](https://github.com/user-attachments/assets/f0fdd43c-5fda-4d54-bad3-149d4453abfd) | ![Batman Returns 2025-04-20-03-48-00](https://github.com/user-attachments/assets/1678a8d1-52cb-4d73-a4ef-5318dfef6b65) |
+</details>
 
-## Other Color Schemes
+## Themed Overlays
 
-### Vanilla
-| GB | GBC | GBA | GG | NGPC | Lynx |
-| -- | -- | -- | -- | -- | -- |
-| ![overlay1](https://github.com/user-attachments/assets/b1c60b8f-57f1-4a37-be53-5a004e14c717) | ![overlay1](https://github.com/user-attachments/assets/819ff9a1-3a4f-4d30-97c8-b17ec61b86a0) | ![overlay1](https://github.com/user-attachments/assets/c9cf2b23-e8a5-4a91-89ab-3bba6623b25b) | ![overlay1](https://github.com/user-attachments/assets/718a6129-e810-4d20-9253-b265d6f7cfaa) | ![overlay1](https://github.com/user-attachments/assets/0433e17c-2d3e-4eb8-b2aa-b66aea941f57) | ![overlay1](https://github.com/user-attachments/assets/429dc905-e0c7-496b-a18c-7873f12c8e13) |
+<details open> <!-- opened by default for instant eye-candy -->
+<summary><strong>Home Consoles •&nbsp;<a href="#">Complete Edition</a></strong></summary>
 
-### Deep Space
-| GB | GBC | GBA | GG | NGPC | Lynx |
-| -- | -- | -- | -- | -- | -- |
-| ![overlay1](https://github.com/user-attachments/assets/29c88164-995d-49a0-ba0f-e5336a14cf81) | ![overlay1](https://github.com/user-attachments/assets/5bcf8eb3-1f0d-4802-909c-fc904d0cb0de) | ![overlay1](https://github.com/user-attachments/assets/84dd000e-0310-453b-82f6-4b08e9ca37f6) | ![overlay1](https://github.com/user-attachments/assets/9cb18760-e389-48f8-9f12-6cb84d9eb053) | ![overlay1](https://github.com/user-attachments/assets/f7b4a4f6-9da8-40a7-aca9-c81f83f33525) |![overlay1](https://github.com/user-attachments/assets/e4d8a401-2904-4556-80e4-1eb65db02e94) |
+<p>
 
-### Bottomless Ocean
-| GB | GBC | GBA | GG | NGPC | Lynx |
-| -- | -- | -- | -- | -- | -- |
-| ![overlay1](https://github.com/user-attachments/assets/d9904d83-3e29-4244-aeab-4134c5ad704a) | ![overlay1](https://github.com/user-attachments/assets/8699a45b-f54a-4442-afae-b8aa77204e2e) | ![overlay1](https://github.com/user-attachments/assets/aab06a0b-0831-4797-9f6f-837fb2d2da17) | ![overlay1](https://github.com/user-attachments/assets/d90f3c54-76f7-4692-aa27-0f2618b1450b) | ![overlay1](https://github.com/user-attachments/assets/08eb6bcf-f704-485b-b146-6540fa60073c) | ![overlay1](https://github.com/user-attachments/assets/e49e937c-e07e-416a-b102-0e03dd8beed3) |
-
-### CRT Alternatives
-| Aspect Pearly Gate | Aspect Metallic |
-| -- | -- |
-| ![Base CRT Aspect](https://github.com/user-attachments/assets/6319b92a-c518-47c6-9fec-04895df124c0) | ![Aspect_CRT_Metalic](https://github.com/user-attachments/assets/871247f0-ba76-4d36-9dcb-6672a501ea32) |
-
-### Special Editions
-| Pokémon E. | Pokémon Yellow E. | Pokémon GS E. | Pokémon Third Anniversary E. |
-| -- | -- | -- | -- |
-| ![overlay1](https://github.com/user-attachments/assets/d8c50158-3971-4275-8bd8-213f665cac7b) | ![overlay1](https://github.com/user-attachments/assets/7953bfa2-fc00-45a0-939e-5715cade5e11) | ![overlay1](https://github.com/user-attachments/assets/8ae344ed-6fe1-491d-8252-b4326a47d279) | ![overlay1](https://github.com/user-attachments/assets/de947077-5769-49b7-b9c1-5aaf3a453c63) | 
-
-| Jusco Mario Limited E. | Legend of Zelda Original E. | New York Pokémon Center | Celebi Special Edition |
-| -- | -- | -- | -- |
-| ![overlay1](https://github.com/user-attachments/assets/daac1b6d-2a68-4305-b7b4-d2cf24d73136) | ![overlay1](https://github.com/user-attachments/assets/7e1284a3-b9dd-498e-b622-a7d7993e41d1) | ![GBA_Integer_Pokémon Center](https://github.com/user-attachments/assets/2473f7d0-14b8-4049-94dc-5eb95eaf5f8f) | ![Celebi Special Edition](https://github.com/user-attachments/assets/edb02d6f-f2c2-404a-be4f-a1a28b1b7748) |
-
-
-
-
-
-## Installation for the Overlays
-
-Unzip the ZIP file and drag its contents into the **root** of your SD card. Alternatively, you can manually select the overlay you want and place it into the corresponding emulator folder inside the **Overlays** directory.
-
-Inside each folder, you’ll find at least three overlays. *Overlay1* is always the base version—clean, with no gridlines, scanlines, or color effects. *Overlay2* includes the gridline or scanline effect with 1px that I think works best. *Overlay3* is for anyone looking for an LCD grid effect. Just a heads-up 'tho, since I used red-green-blue grids for this overlay, there’s a slight, inevitable color tint shift—but I actually prefer this look, and I know some friends who do too.
-
-If you're not using a **TrimUI Brick** but another device with the same resolution, you can still use the same folder structure. In **RetroArch**, you can manually select the overlay folders. For detailed instructions, please refer to the official RetroArch manual on **Libretro**'s GitHub page.
-
-All overlays are designed for **native** scaling, except for those made for home consoles. In that case, please use aspect ratio scaling instead.
-
-*I've added aspect ratio overlays as well. But please be aware that if you're using overlay5, which has LCD grids, you can expect pixel misalignment and blurry sections. That's inevitable due to the non-integer scaling. Alternatively, you can choose to use shaders for the grid look. Please refer to official Discord server channel for shader setups.*
-
-## Installation for the Folder Backgrounds
-
-Both the Overlay and Folder Background releases come with matching root backgrounds. To install them, simply place the bg.png file in the root directory of your SD card.
-
-For folder backgrounds, **if you are not using custom folder names**, drop them into the root of your SD Card. If you're using custom folder names, you’ll need to place them individually. For those using the stock PICO core, manual placement is required.
-
-I’ll be making frequent updates, so if you’re not satisfied with something, feel free to check back later—it might’ve changed. I’ll also be adding more color palettes over time.
-
-## Installation for the Font
-
-For these four themes, I’m using the **Medodica Regular** font, and I highly recommend it!
-
-To install it, simply download the font file and drag it into the root of your SD card. Alternatively, you can navigate through the folders until you find font1.ttf, then drag it into *.system/res/*.
+<table width="100%" cellspacing="0" cellpadding="4" border="1">
+  <tr>
+    <td width="33%" align="center">
+      <img src="https://github.com/user-attachments/assets/f3558995-a1a2-4d84-a929-f143b93f4986" width="100%"><br>
+       <sub><em>Aspect Ratio with Fakelottes-Geom Shader</em></sub>
+    </td>
+    <td width="33%" align="center">
+      <img src="https://github.com/user-attachments/assets/b419ddc5-94d8-40aa-8924-8ffc5ba0a5cb" width="100%"><br>
+      <sub><em>Aspect Ratio with Custom Mesh Grid</em></sub>
+    </td>
+    <td width="33%" align="center">
+      <img src="https://github.com/user-attachments/assets/77b7b5d9-7610-41ed-adfb-5183678f639b" width="100%"><br>
+      <sub><em>Fullscreen with Custom Mesh Grid</em></sub>
+    </td>
+  </tr>
+</table>
+</details>
 
 
-## Specific Configuration
+<details open>
+  <summary><strong>Vanilla Themed Handheld Consoles •&nbsp;<a href="#">Complete Edition</a></strong></summary>
 
-### CRT
+  <p>
 
-Work In Progress
+  <table width="100%" cellspacing="0" cellpadding="4" border="1">
+    <tr>
+      <td width="33%" align="center">
+        <img src="https://github.com/user-attachments/assets/203c2a04-5e1d-4d41-b2ec-3405c31aedc2" width="100%"><br>
+        <sub><em>Game Boy</em></sub>
+      </td>
+      <td width="33%" align="center">
+        <img src="https://github.com/user-attachments/assets/555eadd6-26a6-4a9f-8ad4-fcfc686431b4" width="100%"><br>
+        <sub><em>Game Boy Color</em></sub>
+      </td>
+      <td width="33%" align="center">
+        <img src="https://github.com/user-attachments/assets/b1d5b0fe-de72-458c-a5c5-ceb03713a2a7" width="100%"><br>
+        <sub><em>Game Boy Advance</em></sub>
+      </td>
+      </td>
+    </tr>
+      <tr>
+      <td width="33%" align="center">
+        <img src="https://github.com/user-attachments/assets/9f1ebc65-1d66-4628-948d-2957ba323cf0" width="100%"><br>
+        <sub><em>Game Gear</em></sub>
+      </td>
+      <td width="33%" align="center">
+        <img src="https://github.com/user-attachments/assets/58b55204-4282-4a31-aed4-cfeb075ee202" width="100%"><br>
+        <sub><em>Neo Geo Pocket Color</em></sub>
+      </td>
+      <td width="33%" align="center">
+        <img src="https://github.com/user-attachments/assets/ed4d1c81-cf23-4128-b3ec-ee2bea12e1ed" width="100%"><br>
+        <sub><em>Lynx</em></sub>
+      </td>
+      </td>
+    </tr>
+  </table>
+</details>
 
-### GB
+<details>
+  <summary><strong>Deep Space Themed Handheld Consoles •&nbsp;<a href="#">Complete Edition</a></strong></summary>
 
-For Game Boy enjoyers, the grids are colored to match the original GB palette, and you'll find three different overlay layers. *Overlay1 to 2* follow the same structure as the others, but *Overlay3* features a green transparent background that mimics the original Game Boy's screen palette. 
+  <p>
 
-Since everyone’s taste is different, I recommend experimenting with emulator colorization settings to see what works best for you. That said, these overlays were designed with GBC (Game Boy Color) colorization in mind. I know some consider that blasphemy, but personally, I think the color definition is quite solid. Plus, the overlay palette I used brings those GBC tones closer to the classic DMG feel.
+   <table width="100%" cellspacing="0" cellpadding="4" border="1">
+    <tr>
+      <td width="33%" align="center">
+        <img src="https://github.com/user-attachments/assets/2208619d-9279-41ca-a783-95fff9825943" width="100%"><br>
+        <sub><em>Game Boy</em></sub>
+      </td>
+      <td width="33%" align="center">
+        <img src="https://github.com/user-attachments/assets/93ad0a91-4c13-4604-863f-abc8fb1cc527" width="100%"><br>
+        <sub><em>Game Boy Color</em></sub>
+      </td>
+      <td width="33%" align="center">
+        <img src="https://github.com/user-attachments/assets/c225121a-5314-481f-bd31-d32213c805b6" width="100%"><br>
+        <sub><em>Game Boy Advance</em></sub>
+      </td>
+      </td>
+    </tr>
+      <tr>
+      <td width="33%" align="center">
+        <img src="https://github.com/user-attachments/assets/cdefcf46-3b42-4054-bb4b-28b614f479c3" width="100%"><br>
+        <sub><em>Game Gear</em></sub>
+      </td>
+      <td width="33%" align="center">
+        <img src="https://github.com/user-attachments/assets/e0764668-2948-40cd-ad88-e8038d2b799a" width="100%"><br>
+        <sub><em>Neo Geo Pocket Color</em></sub>
+      </td>
+      <td width="33%" align="center">
+        <img src="https://github.com/user-attachments/assets/d765c03e-079e-4272-8904-255e68103efd" width="100%"><br>
+        <sub><em>Lynx</em></sub>
+      </td>
+      </td>
+    </tr>
+  </table>
+</details>
 
-If you're aiming for a more old-school vibe, *Overlay3*, *GBC* colorization, *Accurate* color correction with *Simple* interframe blending probably gets you the closest.
+<details>
+  <summary><strong>Pearly Gate Themed Handheld Consoles •&nbsp;<a href="#">Complete Edition</a></strong></summary>
 
-### GBA
+  <p>
 
-Legend of Zelda, Minish Cap Original Edition Prototype requires -30 Y offset.
+   <table width="100%" cellspacing="0" cellpadding="4" border="1">
+    <tr>
+      <td width="33%" align="center">
+        <img src="https://github.com/user-attachments/assets/1e108378-498f-4cb3-9a02-b60fa336fc09" width="100%"><br>
+        <sub><em>Game Boy</em></sub>
+      </td>
+      <td width="33%" align="center">
+        <img src="https://github.com/user-attachments/assets/4d0f2753-4e36-4522-b9b2-0f86f7b706c7" width="100%"><br>
+        <sub><em>Game Boy Color</em></sub>
+      </td>
+      <td width="33%" align="center">
+        <img src="https://github.com/user-attachments/assets/41f54205-fa42-46e1-a1ef-ec061ffb2b38" width="100%"><br>
+        <sub><em>Game Boy Advance</em></sub>
+      </td>
+      </td>
+    </tr>
+      <tr>
+      <td width="33%" align="center">
+        <img src="https://github.com/user-attachments/assets/be78d288-e22e-4f88-b5b7-3f5e082cfb90" width="100%"><br>
+        <sub><em>Game Gear</em></sub>
+      </td>
+      <td width="33%" align="center">
+        <img src="https://github.com/user-attachments/assets/62a3c3ea-43b1-4692-96d3-998bf5435dbf" width="100%"><br>
+        <sub><em>Neo Geo Pocket Color</em></sub>
+      </td>
+      <td width="33%" align="center">
+        <img src="https://github.com/user-attachments/assets/07902069-7693-4974-84eb-277cb016086b" width="100%"><br>
+        <sub><em>Lynx</em></sub>
+      </td>
+      </td>
+    </tr>
+  </table>
+</details>
 
-## Feedback
+<details>
+  <summary><strong>Bottomless Ocean Themed Handheld Consoles •&nbsp;<a href="#">Complete Edition</a></strong></summary>
 
-Please don’t hesitate to reach out to me on Discord — **#pseudoinsomniac** — if you have any feedback on these overlays. I’m happy to share the PSD files or the custom grids I created in Paint.net. If you have suggestions for improvements, I’d genuinely appreciate hearing them. I’ll be updating these anyway, so I might as well get them right.
+  <p>
 
-I already have custom-made CRT Native overlays, but they’re a bit sloppy at the moment since I suck at the brush, so I’d rather wait until they look at least passable before sharing them.
+  <table width="100%" cellspacing="0" cellpadding="4" border="1">
+    <tr>
+      <td width="33%" align="center">
+        <img src="https://github.com/user-attachments/assets/656276a8-47ee-406a-8f2e-bfc3d69f95ab" width="100%"><br>
+        <sub><em>Game Boy</em></sub>
+      </td>
+      <td width="33%" align="center">
+        <img src="https://github.com/user-attachments/assets/8fbb5d96-feb3-4156-9be4-f115582f792a" width="100%"><br>
+        <sub><em>Game Boy Color</em></sub>
+      </td>
+      <td width="33%" align="center">
+        <img src="https://github.com/user-attachments/assets/884949da-90ea-4ca3-9446-d1f454608dae" width="100%"><br>
+        <sub><em>Game Boy Advance</em></sub>
+      </td>
+      </td>
+    </tr>
+      <tr>
+      <td width="33%" align="center">
+        <img src="https://github.com/user-attachments/assets/511a9c51-ee0d-476e-b743-099dbc375f30" width="100%"><br>
+        <sub><em>Game Gear</em></sub>
+      </td>
+      <td width="33%" align="center">
+        <img src="https://github.com/user-attachments/assets/2eb6fac0-53c3-40e4-85de-b53a28bedce3" width="100%"><br>
+        <sub><em>Neo Geo Pocket Color</em></sub>
+      </td>
+      <td width="33%" align="center">
+        <img src="https://github.com/user-attachments/assets/37b79130-3970-43e5-b519-80c058ab9a16" width="100%"><br>
+        <sub><em>Lynx</em></sub>
+      </td>
+      </td>
+    </tr>
+  </table>
+</details>
 
-As for samples, I’ll upload them whenever I get the chance. But if you’re good with a camera, feel free to send me some shots—whether it’s just one or a few, so I can share. 
+## Special Edition Overlays
+
+<details>
+  <summary><strong>Game Boy •&nbsp;<a href="#">Complete Edition</a></strong></summary>
+
+  <p>
+
+  <table width="100%" cellspacing="0" cellpadding="4" border="1">
+    <tr>
+      <td width="33%" align="center">
+        <img src="https://github.com/user-attachments/assets/54d007a2-398d-42e2-a5a6-494af7d50b58" width="100%"><br>
+      <sub><em>Jusco Mario Special E. for Game Boy with DMG Grid</em></sub><br>
+        <sub><a href="#">Link</a></sub>
+      </td>
+      <td width="33%" align="center">
+      <sub><a href="#">Coming Soon</a></sub>
+      </td>
+      <td width="33%" align="center">
+      <sub><a href="#">Coming Soon</a></sub>
+      </td>
+      </td>
+    </tr>
+  </table>
+</details>
+
+<details>
+  <summary><strong>Game Boy Color •&nbsp;<a href="#">Complete Edition</a></strong></summary>
+
+  <p>
+
+  <table width="100%" cellspacing="0" cellpadding="4" border="1">
+    <tr>
+      <td width="25%" align="center">
+        <img src="https://github.com/user-attachments/assets/fdbf8890-c519-4ce1-bd7e-38ddebe022b6" width="100%"><br>
+      <sub><em>Pokémon Special E.</em></sub><br>
+        <sub><a href="#">Link</a></sub>
+      </td>
+      <td width="25%" align="center">
+        <img src="https://github.com/user-attachments/assets/2df30285-9f65-438b-9bbb-1241ca4de47f" width="100%"><br>
+      <sub><em>Pokémon Yellow Special E.</em></sub><br>
+        <sub><a href="#">Link</a></sub>
+      </td>
+      <td width="25%" align="center">
+        <img src="https://github.com/user-attachments/assets/dee1e3ab-be15-4ae6-b794-32dbda98685b" width="100%"><br>
+      <sub><em>Pokémon GS Special E.</em></sub><br>
+        <sub><a href="#">Link</a></sub>
+      </td>
+      <td width="25%" align="center">
+        <img src="https://github.com/user-attachments/assets/846937e7-c434-409b-9561-89c19130fcf8" width="100%"><br>
+      <sub><em>Pokémon Third AnniversarySpecial E.</em></sub><br>
+        <sub><a href="#">Link</a></sub>
+      </td>
+      </td>
+    </tr>
+      <tr>
+      <td width="25%" align="center">
+        <img src="https://github.com/user-attachments/assets/ec972a53-976f-47b7-9351-43ad23dc5266" width="100%"><br>
+      <sub><em>Jusco Mario Special E.</em></sub><br>
+        <sub><a href="#">Link</a></sub>
+      </td>
+      <td width="25%" align="center">
+        <sub><a href="#">Coming Soon</a></sub>
+      </td>
+      <td width="25%" align="center">
+        <sub><a href="#">Coming Soon</a></sub>
+      </td>
+      </td>
+          <td width="25%" align="center">
+        <sub><a href="#">Coming Soon</a></sub>
+      </td>
+    </tr>
+  </table>
+</details>
+
+<details>
+  <summary><strong>Game Boy Advance •&nbsp;<a href="#">Complete Edition</a></strong></summary>
+
+  <p>
+
+  <table width="100%" cellspacing="0" cellpadding="4" border="1">
+    <tr>
+      <td width="33%" align="center">
+        <img src="https://github.com/user-attachments/assets/a9f0c699-ed51-4e99-aca2-ae8ee70adaf7" width="100%"><br>
+      <sub><em>The Minish Cap Special E.</em></sub><br>
+      <sub><a href="#">Link</a></sub>
+      </td>
+      <td width="33%" align="center">
+        <img src="https://github.com/user-attachments/assets/1967ce2a-a743-401d-acdb-2739b8fb9402" width="100%"><br>
+      <sub><em>Celebi Special E.</em></sub><br>
+      <sub><a href="#">Link</a></sub>
+      </td>
+      <td width="33%" align="center">
+        <img src="https://github.com/user-attachments/assets/9017ef8c-ca83-4a67-99f0-fbfb5cbf91f0" width="100%"><br>
+      <sub><em>New York Pokémon Center Special E.</em></sub><br>
+      <sub><a href="#">Link</a></sub>
+      </td>
+      </td>
+    </tr>
+  </table>
+</details>
+
+## Installation
+
+<details> 
+  <summary><strong>Themes</strong></summary>
+
+Both the **Overlay** and **Theme** releases come with matching root backgrounds. To install them, simply place the *bg.png* file in the root directory of your SD card.
+
+For **themes**, if you are not using custom folder names, drop them into the root of your **SD Card**. If you're using custom folder names, you’ll need to place them individually. For those using the stock **PICO** core, **MGBA** or **SUPA** manual placement is required.
+<br>
+</details>
+
+
+<details> 
+  <summary><strong>Overlays</strong></summary>
+
+Unzip the ZIP file and drag its contents into the root of your **SD card**. Alternatively, you can manually select the overlay you want and place it into the corresponding emulator folder inside the Overlays directory.
+
+All overlays come in two versions: *Blank* and *LCD Grid*. *Blanks* are for those who want to utilize the shader functionality of the Brick, while *LCD Grid* are for those looking to preserve power consumption. Please note that grid-based solutions are purely cosmetic—depending on the emulator or game, some may look fine, while others may appear blurry. In such cases, I recommend using *shaders* instead.
+
+If you're not using a TrimUI Brick but another device with the same resolution, you can still use the same folder structure. In **RetroArch**, you can manually select the overlay folders. For detailed instructions, please refer to the official RetroArch manual on Libretro's GitHub page.
+<br>
+</details>
+
+<details> 
+  <summary><strong>Font</strong></summary>
+
+To install it, simply download the font file and drag it into the root of your **SD card**. Alternatively, you can navigate through the folders until you find *font1.ttf*, then drag it into **.system/res/**.
+<br>
+</details>
+
+## Configuration
+
+<details> 
+  <summary><strong>Home Consoles</strong></summary>
+
+The home console set comes with a *Blank* overlay and three additional *Mesh Grid* overlays that I’ve meticulously crafted through much trial and error. Shader solutions will almost always look better, since both aspect ratio and fullscreen setups require subpixel precision. That said, these overlays are incredibly lightweight and, in most cases, look good enough.
+
+For CRT overlays, please use **Linear** screen sharpness.
+<br>
+</details> 
+
+<details> 
+  <summary><strong>Game Boy</strong></summary>
+
+For Game Boy enjoyers, the *Grid* is colored to match the original **GB** palette, and you'll find three different overlay layers. With the *Blank* and *DMG Grid* versions, you can customize things however you like. The *DMG Grid & DMG Background* overlay, however, features a green transparent background that mimics the original **Game Boy**’s screen palette.
+
+Since everyone’s taste is different, I recommend experimenting with emulator colorization settings to see what works best for you. That said, these overlays were designed with **GBC (Game Boy Color)** colorization in mind. I know some consider that blasphemy, but personally, I think the color definition is quite solid. Plus, the overlay palette I used brings those **GBC** tones closer to the classic **DMG** feel.
+
+If you're aiming for a more old-school vibe, try combining the *DMG Grid & DMG Background* overlay, **GBC** colorization, **Accurate** color correction, **Below Screen** frontlight position, **30%** dark filter Level, and **Simple** interframe blending—that’ll probably get you to good result.
+
+*Jusco Mario Special E.* is technically a **Game Boy Color** overlay and was originally designed for the **GBC**, but it’s marketed alongside the original **Game Boy Super Mario Land** game. *The Special Edition* also includes a *DMG Grid & Background*, so you can use it for that purpose as well. However, in that case, I recommend using only the *DMG Grid* without the background to preserve the **Game Boy Color** feel.
+<br>
+</details> 
+
+<details> 
+  <summary><strong>Game Boy Color</strong></summary>
+
+**Below Screen** frontlight position helps the color pop if you’re using the LCD Grid.
+<br>
+</details> 
+
+<details> 
+  <summary><strong>Game Boy Advance</strong></summary>
+
+Most *Game Boy Advance Special Edition* overlays require manual offset adjustment. You can do this under **Settings > Frontend > Offset Screen Y**. If an adjustment is needed, I’ve included the required value in parentheses at the end of the overlay name.
+<br>
+</details> 
+
+<details> 
+  <summary><strong>Feedback</strong></summary>
+
+Please don’t hesitate to reach out to me on Discord with **#pseudoinsomniac** handle @Shin on [NextUI](https://github.com/LoveRetro/NextUI) [Discord](https://discord.gg/HKd7wqZk3h) if you have any feedback on these overlays. If you have suggestions for improvements, I’d genuinely appreciate hearing them. I’ll be updating these anyway, so I might as well get them right.
+
+You are free to use these assets anywhere you want and modify them however you like, as long as they are my own work and not among the credited assets listed below. In those cases, please follow the proper procedure.
+<br>
+</details> 
+
+## Credits
+
+<details> 
+<summary><strong>Pop-Tarts Theme</strong></summary>
+</strong></summary>
+<br>
+
+<p>Original console assets are used for the Colorful theme, gathered or made by <a href="https://forums.launchbox-app.com/profile/70421-viking/">Viking</a>, and shared on the <a href="https://forums.launchbox-app.com/files/file/2485-colorful-resources/">LaunchBox forums</a>.</p>
+
+<p>Emulator icons are the work of <a href="https://github.com/Zoidburg13">Zoidburg13</a> and can be found in his <a href="https://github.com/Zoidburg13/ES-DE-System-Icon-Set">repository</a>.</p>
+
+<p>The Pico-8 asset was made by <a href="https://www.artstation.com/luizmoura">Luiz Felipe Moura</a> and can be found on <a href="https://www.artstation.com/artwork/RnJWwy">ArtStation</a>.</p>
+
+<p><em>This theme is a non-commercial, fan-made project. All visual content remains the property of their original creators and is used here for illustrative purposes only.</em></p>
+
+</details>
+
+<details> 
+<summary><strong>Pearly Gate & Deep Space Theme</strong></summary>
+</strong></summary>
+<br>
+
+<p>Console logos are sourced from Wikipedia. All logos are trademarks of their respective owners and are used here for illustrative purposes only.</p>
+
+<p>Game screenshots are sourced from <a href="https://www.screenscraper.fr/">ScreenScraper</a>, contributed by the ScreenScraper community.</p>
+
+<p>Various character PNGs were sourced through public PNG search engines. All characters remain the property of their respective copyright holders.</p>
+
+<p><em>This theme is a non-commercial, fan-made project. All visual content remains the property of their original creators and is used here for illustrative purposes only.</em></p>
+
+</details>
+
+<details> 
+<summary><strong>Overlays</strong></summary>
+</strong></summary>
+<br>
+  <p>
+    Artwork and graphical elements were recreated by pixel-tracing
+    high-resolution photographs of original hardware, then carefully upscaled
+    and retouched for modern displays. Additional reference images were
+    adapted from the corresponding Wikipedia pages for each console.
+  </p>
+</details>
+
+<details> 
+<summary><strong>Font</strong></summary>
+</strong></summary>
+<br>
+
+Copyright (c) 2024, Roberto Mocci (< postocarattere@gmail.com | https://patreon.com/rmocci >),
+with Reserved Font Name Medodica.
+
+</details>
