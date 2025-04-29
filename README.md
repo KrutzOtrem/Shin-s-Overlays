@@ -52,11 +52,11 @@ Most of my work can be found and downloaded easily through the [Theme Manager](h
   <tr>
     <td width="50%" align="center">
       <img src="https://github.com/user-attachments/assets/d8f51862-b855-4bdc-9853-334bb1f041fa" width="100%"><br>
-        <sub><a href="[Pop-Tarts.zip](https://github.com/user-attachments/files/19963932/Pop-Tarts.zip)">Pop-Tarts</a></sub>
+        <sub><a href="https://github.com/user-attachments/files/19963932/Pop-Tarts.zip">Pop-Tarts</a></sub>
     </td>
     <td width="50%" align="center">
       <img src="https://github.com/user-attachments/assets/61768f31-8d61-40f0-825c-96cf352a533b" width="100%"><br>
-      <sub><a href="#">Pop-Tarts Clean</a></sub>
+      <sub><a href="https://github.com/user-attachments/files/19964030/Pop-Tarts.Clean.zip">Pop-Tarts Clean</a></sub>
     </td>
   </tr>
 </table>
@@ -72,11 +72,11 @@ Most of my work can be found and downloaded easily through the [Theme Manager](h
     <tr>
       <td width="25%" align="center">
         <img src="https://github.com/user-attachments/assets/d7445d88-6a9d-49fb-b5bb-fd2ebb28dcba" width="100%"><br>
-        <sub><a href="#">Pearly Gate</a></sub>
+        <sub><a href="https://github.com/user-attachments/files/19964089/Pearly.Gate.zip">Pearly Gate</a></sub>
       </td>
       <td width="25%" align="center">
         <img src="https://github.com/user-attachments/assets/62f06d7a-cbaa-426a-9482-de7369cf00ea" width="100%"><br>
-        <sub><a href="#">Deep Space</a></sub>
+        <sub><a href="https://github.com/user-attachments/files/19964116/Deep.Space.zip">Deep Space</a></sub>
       </td>
       <td width="25%" align="center">
         <img src="https://github.com/user-attachments/assets/391802b6-699d-4f11-b76c-3bebf21649b2" width="100%"><br>
@@ -94,7 +94,7 @@ Most of my work can be found and downloaded easily through the [Theme Manager](h
 ## Themed Overlays
 
 <details open> <!-- opened by default for instant eye-candy -->
-<summary><strong>Home Consoles •&nbsp;<a href="#">Complete Edition</a></strong></summary>
+<summary><strong>Home Consoles •&nbsp;<a href="https://github.com/user-attachments/files/19964167/Home.Consoles.-.Complete.Edition.zip">Complete Edition</a></strong></summary>
 
 <p>
 
@@ -118,7 +118,7 @@ Most of my work can be found and downloaded easily through the [Theme Manager](h
 
 
 <details open>
-  <summary><strong>Vanilla Themed Handheld Consoles •&nbsp;<a href="#">Complete Edition</a></strong></summary>
+  <summary><strong>Vanilla Themed Handheld Consoles •&nbsp;<a href="https://github.com/user-attachments/files/19964225/Vanilla.-.Complete.Edition.zip">Complete Edition</a></strong></summary>
 
   <p>
 
@@ -157,7 +157,7 @@ Most of my work can be found and downloaded easily through the [Theme Manager](h
 </details>
 
 <details>
-  <summary><strong>Deep Space Themed Handheld Consoles •&nbsp;<a href="#">Complete Edition</a></strong></summary>
+  <summary><strong>Deep Space Themed Handheld Consoles •&nbsp;<a href="https://github.com/user-attachments/files/19964253/Deep.Space.-.Complete.Edition.zip">Complete Edition</a></strong></summary>
 
   <p>
 
@@ -196,7 +196,7 @@ Most of my work can be found and downloaded easily through the [Theme Manager](h
 </details>
 
 <details>
-  <summary><strong>Pearly Gate Themed Handheld Consoles •&nbsp;<a href="#">Complete Edition</a></strong></summary>
+  <summary><strong>Pearly Gate Themed Handheld Consoles •&nbsp;<a href="https://github.com/user-attachments/files/19964263/Pearly.Gate.-.Complete.Edition.zip">Complete Edition</a></strong></summary>
 
   <p>
 
@@ -235,7 +235,7 @@ Most of my work can be found and downloaded easily through the [Theme Manager](h
 </details>
 
 <details>
-  <summary><strong>Bottomless Ocean Themed Handheld Consoles •&nbsp;<a href="#">Complete Edition</a></strong></summary>
+  <summary><strong>Bottomless Ocean Themed Handheld Consoles •&nbsp;<a href="https://github.com/user-attachments/files/19964273/Bottomless.Edition.-.Native.Edition.zip">Native Edition</a></strong></summary>
 
   <p>
 
@@ -284,8 +284,8 @@ Most of my work can be found and downloaded easily through the [Theme Manager](h
     <tr>
       <td width="33%" align="center">
         <img src="https://github.com/user-attachments/assets/54d007a2-398d-42e2-a5a6-494af7d50b58" width="100%"><br>
-      <sub><em>Jusco Mario Special E. for Game Boy with DMG Grid</em></sub><br>
-        <sub><a href="#">Link</a></sub>
+      <sub><em>Jusco Mario Special E. on Game Boy</em></sub><br>
+        <sub><a href="https://github.com/user-attachments/files/19964282/Jusco.Mario.Special.E.for.Game.Boy.zip">Link</a></sub>
       </td>
       <td width="33%" align="center">
       <sub><a href="#">Coming Soon</a></sub>
@@ -299,7 +299,7 @@ Most of my work can be found and downloaded easily through the [Theme Manager](h
 </details>
 
 <details>
-  <summary><strong>Game Boy Color •&nbsp;<a href="#">Complete Edition</a></strong></summary>
+  <summary><strong>Game Boy Color •&nbsp;<a href="https://github.com/user-attachments/files/19964373/Game.Boy.Color.Complete.Special.Editions.zip">Complete Edition</a></strong></summary>
 
   <p>
 
@@ -308,22 +308,22 @@ Most of my work can be found and downloaded easily through the [Theme Manager](h
       <td width="25%" align="center">
         <img src="https://github.com/user-attachments/assets/fdbf8890-c519-4ce1-bd7e-38ddebe022b6" width="100%"><br>
       <sub><em>Pokémon Special E.</em></sub><br>
-        <sub><a href="#">Link</a></sub>
+        <sub><a href="https://github.com/user-attachments/files/19964559/Pokemon.Special.E.zip">Link</a></sub>
       </td>
       <td width="25%" align="center">
         <img src="https://github.com/user-attachments/assets/2df30285-9f65-438b-9bbb-1241ca4de47f" width="100%"><br>
       <sub><em>Pokémon Yellow Special E.</em></sub><br>
-        <sub><a href="#">Link</a></sub>
+        <sub><a href="https://github.com/user-attachments/files/19964568/Pokemon.Yellow.Special.E.zip">Link</a></sub>
       </td>
       <td width="25%" align="center">
         <img src="https://github.com/user-attachments/assets/dee1e3ab-be15-4ae6-b794-32dbda98685b" width="100%"><br>
       <sub><em>Pokémon GS Special E.</em></sub><br>
-        <sub><a href="#">Link</a></sub>
+        <sub><a href="https://github.com/user-attachments/files/19964580/Pokemon.GS.Special.E.zip">Link</a></sub>
       </td>
       <td width="25%" align="center">
         <img src="https://github.com/user-attachments/assets/846937e7-c434-409b-9561-89c19130fcf8" width="100%"><br>
-      <sub><em>Pokémon Third AnniversarySpecial E.</em></sub><br>
-        <sub><a href="#">Link</a></sub>
+      <sub><em>Pokémon Third Anniversary Special E.</em></sub><br>
+        <sub><a href="https://github.com/user-attachments/files/19964599/Pokemon.Third.Anniversary.Special.E.zip">Link</a></sub>
       </td>
       </td>
     </tr>
@@ -331,7 +331,7 @@ Most of my work can be found and downloaded easily through the [Theme Manager](h
       <td width="25%" align="center">
         <img src="https://github.com/user-attachments/assets/ec972a53-976f-47b7-9351-43ad23dc5266" width="100%"><br>
       <sub><em>Jusco Mario Special E.</em></sub><br>
-        <sub><a href="#">Link</a></sub>
+        <sub><a href="https://github.com/user-attachments/files/19964608/Jusco.Mario.Special.E.zip">Link</a></sub>
       </td>
       <td width="25%" align="center">
         <sub><a href="#">Coming Soon</a></sub>
@@ -348,7 +348,7 @@ Most of my work can be found and downloaded easily through the [Theme Manager](h
 </details>
 
 <details>
-  <summary><strong>Game Boy Advance •&nbsp;<a href="#">Complete Edition</a></strong></summary>
+  <summary><strong>Game Boy Advance •&nbsp;<a href="https://github.com/user-attachments/files/19964625/Game.Boy.Advance.Complete.Special.and.Original.Editions.zip">Complete Edition</a></strong></summary>
 
   <p>
 
@@ -356,8 +356,8 @@ Most of my work can be found and downloaded easily through the [Theme Manager](h
     <tr>
       <td width="33%" align="center">
         <img src="https://github.com/user-attachments/assets/a9f0c699-ed51-4e99-aca2-ae8ee70adaf7" width="100%"><br>
-      <sub><em>The Minish Cap Special E.</em></sub><br>
-      <sub><a href="#">Link</a></sub>
+      <sub><em>The Minish Cap Original E.</em></sub><br>
+      <sub><a href="https://github.com/user-attachments/files/19964634/The.Minish.Cap.Original.E.zip">Link</a></sub>
       </td>
       <td width="33%" align="center">
         <img src="https://github.com/user-attachments/assets/1967ce2a-a743-401d-acdb-2739b8fb9402" width="100%"><br>
