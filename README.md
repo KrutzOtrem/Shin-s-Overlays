@@ -87,6 +87,22 @@ Most of my work can be found and downloaded easily through the [Theme Manager](h
         <sub><em>Bottomless Ocean</em></sub>
       </td>
     </tr>
+        <tr>
+      <td width="25%" align="center">
+        <img src="https://github.com/user-attachments/assets/39d68870-243f-4e6a-95bd-191fa5df3347" width="100%"><br>
+        <sub><a href="https://github.com/user-attachments/files/19965145/Pearly.Gate.Clean.zip">Pearly Gate Clean E.</a></sub>
+      </td>
+      <td width="25%" align="center">
+        <img src="https://github.com/user-attachments/assets/8711af80-98de-4782-be0e-998124198f2f" width="100%"><br>
+        <sub><a href="https://github.com/user-attachments/files/19965148/Deep.Space.Clean.zip">Deep Space Clean E.</a></sub>
+      </td>
+      <td width="25%" align="center">
+        <sub><em>Coming Soon</em></sub>
+      </td>
+      <td width="25%" align="center">
+        <sub><em>Coming Soon</em></sub>
+      </td>
+    </tr>
   </table>
 
 </details>
