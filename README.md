@@ -304,10 +304,10 @@ Most of my work can be found and downloaded easily through the [Theme Manager](h
         <sub><a href="https://github.com/user-attachments/files/19964282/Jusco.Mario.Special.E.for.Game.Boy.zip">Link</a></sub>
       </td>
       <td width="33%" align="center">
-      <sub><a href="#">Coming Soon</a></sub>
+     <sub><em>Coming Soon</em></sub>
       </td>
       <td width="33%" align="center">
-      <sub><a href="#">Coming Soon</a></sub>
+      <sub><em>Coming Soon</em></sub>
       </td>
       </td>
     </tr>
@@ -350,14 +350,14 @@ Most of my work can be found and downloaded easily through the [Theme Manager](h
         <sub><a href="https://github.com/user-attachments/files/19964608/Jusco.Mario.Special.E.zip">Link</a></sub>
       </td>
       <td width="25%" align="center">
-        <sub><a href="#">Coming Soon</a></sub>
+        <sub><em>Coming Soon</em></sub>
       </td>
       <td width="25%" align="center">
-        <sub><a href="#">Coming Soon</a></sub>
+        <sub><em>Coming Soon</em></sub>
       </td>
       </td>
           <td width="25%" align="center">
-        <sub><a href="#">Coming Soon</a></sub>
+        <sub><em>Coming Soon</em></sub>
       </td>
     </tr>
   </table>
