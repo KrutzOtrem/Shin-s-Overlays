@@ -80,11 +80,11 @@ Most of my work can be found and downloaded easily through the [Theme Manager](h
       </td>
       <td width="25%" align="center">
         <img src="https://github.com/user-attachments/assets/391802b6-699d-4f11-b76c-3bebf21649b2" width="100%"><br>
-        <sub><a href="#">Early Morning</a></sub>
+        <sub><em>Early Morning</em></sub>
       </td>
       <td width="25%" align="center">
         <img src="https://github.com/user-attachments/assets/97cb1baf-bad8-4421-8ff8-16cfbf43bfea" width="100%"><br>
-        <sub><a href="#">Bottomless Ocean</a></sub>
+        <sub><em>Bottomless Ocean</em></sub>
       </td>
     </tr>
   </table>
