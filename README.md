@@ -71,11 +71,11 @@ Most of my work can be found and downloaded easily through the [Theme Manager](h
   <table width="100%" cellspacing="0" cellpadding="4" border="1">
     <tr>
       <td width="25%" align="center">
-        <img src="https://github.com/user-attachments/assets/d7445d88-6a9d-49fb-b5bb-fd2ebb28dcba" width="100%"><br>
+        <img src="https://github.com/user-attachments/assets/b2145170-0e32-4219-bf0e-e1eef1bb20ee" width="100%"><br>
         <sub><a href="https://github.com/user-attachments/files/19964089/Pearly.Gate.zip">Pearly Gate</a></sub>
       </td>
       <td width="25%" align="center">
-        <img src="https://github.com/user-attachments/assets/62f06d7a-cbaa-426a-9482-de7369cf00ea" width="100%"><br>
+        <img src="https://github.com/user-attachments/assets/6266c306-ce11-4eb1-9235-b30d0c32364c" width="100%"><br>
         <sub><a href="https://github.com/user-attachments/files/19964116/Deep.Space.zip">Deep Space</a></sub>
       </td>
       <td width="25%" align="center">
