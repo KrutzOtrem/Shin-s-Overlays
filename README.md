@@ -362,12 +362,12 @@ Most of my work can be found and downloaded easily through the [Theme Manager](h
       <td width="33%" align="center">
         <img src="https://github.com/user-attachments/assets/1967ce2a-a743-401d-acdb-2739b8fb9402" width="100%"><br>
       <sub><em>Celebi Special E.</em></sub><br>
-      <sub><a href="#">Link</a></sub>
+      <sub><a href="https://github.com/user-attachments/files/19964657/Celebi.Special.E.zip">Link</a></sub>
       </td>
       <td width="33%" align="center">
         <img src="https://github.com/user-attachments/assets/9017ef8c-ca83-4a67-99f0-fbfb5cbf91f0" width="100%"><br>
       <sub><em>New York Pokémon Center Special E.</em></sub><br>
-      <sub><a href="#">Link</a></sub>
+      <sub><a href="https://github.com/user-attachments/files/19964661/New.York.Pokemon.Center.Special.E.zip">Link</a></sub>
       </td>
       </td>
     </tr>
