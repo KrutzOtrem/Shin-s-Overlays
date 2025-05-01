@@ -471,16 +471,16 @@ You are free to use these assets anywhere you want and modify them however you l
 
 <details> 
 <summary><strong>Brick Zero Theme</strong></summary>
-</strong></summary>
 <br>
 
 <p>Original console assets are used for the Colorful theme, gathered or made by <a href="https://forums.launchbox-app.com/profile/70421-viking/">Viking</a>, and shared on the <a href="https://forums.launchbox-app.com/files/file/2485-colorful-resources/">LaunchBox forums</a>.</p>
 
-<p>The ribbon cable pixel art used in this theme is the property of Flipper Devices Inc. and is used here for illustrative purposes only. All rights to the original artwork belong to its respective owner.</a>.</p>
+<p>The ribbon cable pixel art used in this theme is the property of Flipper Devices Inc. and is used here for illustrative purposes only. All rights to the original artwork belong to its respective owner.</p>
 
-<p>The font used in this theme is **Munro**, created by <a href="[https://forums.launchbox-app.com/profile/70421-viking/](https://www.tenbytwenty.com/)">Ten by Twenty</a>. All rights belong to the original creator.</a>.</p>
+<p>The font used in this theme is <strong>Munro</strong>, created by <a href="https://www.tenbytwenty.com/">Ten by Twenty</a>. All rights belong to the original creator.</p>
 
 </details>
+
 
 <details> 
 <summary><strong>Pop-Tarts Theme</strong></summary>
