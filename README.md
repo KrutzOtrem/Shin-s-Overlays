@@ -51,12 +51,12 @@ Most of my work can be found and downloaded easily through the [Theme Manager](h
 <table width="100%" cellspacing="0" cellpadding="4" border="1">
   <tr>
     <td width="50%" align="center">
+      <img src="https://github.com/user-attachments/assets/264bf320-ac1b-4ba3-b615-0c1bf10e96bb" width="100%"><br>
+        <sub><a href="https://github.com/KrutzOtrem/Trimui-Brick-Overlays/releases/download/bz.v1.0/Brick.Zero.zip">Brick Zero</a></sub>
+    </td>
+       <td width="50%" align="center">
       <img src="https://github.com/user-attachments/assets/d8f51862-b855-4bdc-9853-334bb1f041fa" width="100%"><br>
         <sub><a href="https://github.com/user-attachments/files/19963932/Pop-Tarts.zip">Pop-Tarts</a></sub>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github.com/user-attachments/assets/61768f31-8d61-40f0-825c-96cf352a533b" width="100%"><br>
-      <sub><a href="https://github.com/user-attachments/files/19964030/Pop-Tarts.Clean.zip">Pop-Tarts Clean</a></sub>
     </td>
   </tr>
 </table>
@@ -468,6 +468,19 @@ You are free to use these assets anywhere you want and modify them however you l
 </details> 
 
 ## Credits
+
+<details> 
+<summary><strong>Brick Zero Theme</strong></summary>
+</strong></summary>
+<br>
+
+<p>Original console assets are used for the Colorful theme, gathered or made by <a href="https://forums.launchbox-app.com/profile/70421-viking/">Viking</a>, and shared on the <a href="https://forums.launchbox-app.com/files/file/2485-colorful-resources/">LaunchBox forums</a>.</p>
+
+<p>The ribbon cable pixel art used in this theme is the property of Flipper Devices Inc. and is used here for illustrative purposes only. All rights to the original artwork belong to its respective owner.</a>.</p>
+
+<p>The font used in this theme is **Munro**, created by [Ten by Twenty](https://www.tenbytwenty.com/). All rights belong to the original creator.</a>.</p>
+
+</details>
 
 <details> 
 <summary><strong>Pop-Tarts Theme</strong></summary>
