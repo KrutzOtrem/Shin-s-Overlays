@@ -478,7 +478,7 @@ You are free to use these assets anywhere you want and modify them however you l
 
 <p>The ribbon cable pixel art used in this theme is the property of Flipper Devices Inc. and is used here for illustrative purposes only. All rights to the original artwork belong to its respective owner.</a>.</p>
 
-<p>The font used in this theme is **Munro**, created by [Ten by Twenty](https://www.tenbytwenty.com/). All rights belong to the original creator.</a>.</p>
+<p>The font used in this theme is **Munro**, created by <a href="[https://forums.launchbox-app.com/profile/70421-viking/](https://www.tenbytwenty.com/)">Ten by Twenty</a>. All rights belong to the original creator.</a>.</p>
 
 </details>
 
