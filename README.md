@@ -110,7 +110,7 @@ Most of my work can be found and downloaded easily through the [Theme Manager](h
 ## Themed Overlays
 
 <details open> <!-- opened by default for instant eye-candy -->
-<summary><strong>Home Consoles •&nbsp;<a href="https://github.com/user-attachments/files/20024163/CRT.-.Complete.Edition.zip">Complete Edition</a></strong></summary>
+<summary><strong>Home Consoles •&nbsp;<a href="https://github.com/user-attachments/files/20024563/Home.Console.Overlays.zip">Complete Edition</a></strong></summary>
 
 <p>
 
@@ -131,17 +131,18 @@ Most of my work can be found and downloaded easily through the [Theme Manager](h
     </td>
   </tr>
    <tr>
-    <td width="50%" align="center">
+    <td width="33%" align="center">
       <img src="https://github.com/user-attachments/assets/5e40bb2a-48f5-4c87-9657-34e20ba8d471"
  width="100%"><br>
        <sub><em>Aspect Screen Ratio, Fakelottes Shader with Frame</em></sub>
     </td>
-    <td width="50%" align="center">
+    <td width="33%" align="center">
       <img src="https://github.com/user-attachments/assets/2ce7cd38-bf8b-4930-b9cf-575d316221a9" width="100%"><br>
       <sub><em>Aspect Screen Ratio, Original Mesh Grid with Frame</em></sub>
     </td>
   </tr>
 </table>
+
 </details>
 
 
