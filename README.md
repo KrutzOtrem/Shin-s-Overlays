@@ -110,23 +110,35 @@ Most of my work can be found and downloaded easily through the [Theme Manager](h
 ## Themed Overlays
 
 <details open> <!-- opened by default for instant eye-candy -->
-<summary><strong>Home Consoles •&nbsp;<a href="https://github.com/user-attachments/files/19964167/Home.Consoles.-.Complete.Edition.zip">Complete Edition</a></strong></summary>
+<summary><strong>Home Consoles •&nbsp;<a href="https://github.com/user-attachments/files/20024163/CRT.-.Complete.Edition.zip">Complete Edition</a></strong></summary>
 
 <p>
 
 <table width="100%" cellspacing="0" cellpadding="4" border="1">
   <tr>
     <td width="33%" align="center">
-      <img src="https://github.com/user-attachments/assets/f3558995-a1a2-4d84-a929-f143b93f4986" width="100%"><br>
-       <sub><em>Aspect Ratio with Fakelottes-Geom Shader</em></sub>
+      <img src="https://github.com/user-attachments/assets/1f936db0-d706-4066-8dad-1d1cfd78fde9"
+ width="100%"><br>
+       <sub><em>Aspect Ratio, Base</em></sub>
     </td>
     <td width="33%" align="center">
-      <img src="https://github.com/user-attachments/assets/b419ddc5-94d8-40aa-8924-8ffc5ba0a5cb" width="100%"><br>
-      <sub><em>Aspect Ratio with Custom Mesh Grid</em></sub>
+      <img src="https://github.com/user-attachments/assets/cdce7387-a558-4cf1-8d21-a5eaa2d2a190" width="100%"><br>
+      <sub><em>Aspect Ratio, Fakelottes Shader</em></sub>
     </td>
     <td width="33%" align="center">
-      <img src="https://github.com/user-attachments/assets/77b7b5d9-7610-41ed-adfb-5183678f639b" width="100%"><br>
-      <sub><em>Fullscreen with Custom Mesh Grid</em></sub>
+      <img src="https://github.com/user-attachments/assets/27d7fb11-6e43-4fb6-9b0d-b57e8b9cbd89" width="100%"><br>
+      <sub><em>Aspect Ratio, Original Mesh Grid</em></sub>
+    </td>
+  </tr>
+   <tr>
+    <td width="50%" align="center">
+      <img src="https://github.com/user-attachments/assets/5e40bb2a-48f5-4c87-9657-34e20ba8d471"
+ width="100%"><br>
+       <sub><em>Aspect Screen Ratio, Fakelottes Shader with Frame</em></sub>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github.com/user-attachments/assets/2ce7cd38-bf8b-4930-b9cf-575d316221a9" width="100%"><br>
+      <sub><em>Aspect Screen Ratio, Original Mesh Grid with Frame</em></sub>
     </td>
   </tr>
 </table>
