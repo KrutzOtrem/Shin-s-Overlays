@@ -55,8 +55,8 @@ Most of my work can be found and downloaded easily through the [Theme Manager](h
         <sub><a href="https://github.com/KrutzOtrem/Trimui-Brick-Overlays/releases/download/bz.v1.0/Brick.Zero.zip">Brick Zero</a></sub>
     </td>
        <td width="50%" align="center">
-      <img src="https://github.com/user-attachments/assets/d8f51862-b855-4bdc-9853-334bb1f041fa" width="100%"><br>
-        <sub><a href="https://github.com/user-attachments/files/19963932/Pop-Tarts.zip">Pop-Tarts</a></sub>
+      <img src="https://github.com/user-attachments/assets/f41bd19b-2c79-4f9f-a05a-8f83aea55ea0" width="100%"><br>
+        <sub><a href="https://github.com/KrutzOtrem/Trimui-Brick-Overlays/releases/download/pt.v1.0/Pop-Tarts.zip">Pop-Tarts</a></sub>
     </td>
   </tr>
 </table>
