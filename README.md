@@ -117,27 +117,26 @@ Most of my work can be found and downloaded easily through the [Theme Manager](h
 <table width="100%" cellspacing="0" cellpadding="4" border="1">
   <tr>
     <td width="33%" align="center">
-      <img src="https://github.com/user-attachments/assets/1f936db0-d706-4066-8dad-1d1cfd78fde9"
+      <img src="https://github.com/user-attachments/assets/d3b30edf-7f79-417b-a721-cd332ff6d33e"
  width="100%"><br>
-       <sub><em>Aspect Ratio, Base</em></sub>
+       <sub><em>Base</em></sub>
     </td>
     <td width="33%" align="center">
-      <img src="https://github.com/user-attachments/assets/cdce7387-a558-4cf1-8d21-a5eaa2d2a190" width="100%"><br>
+      <img src="https://github.com/user-attachments/assets/c822897b-4d3d-4f2b-9bfc-8b20565acb09" width="100%"><br>
       <sub><em>Aspect Ratio, Fakelottes Shader</em></sub>
     </td>
     <td width="33%" align="center">
-      <img src="https://github.com/user-attachments/assets/27d7fb11-6e43-4fb6-9b0d-b57e8b9cbd89" width="100%"><br>
+      <img src="https://github.com/user-attachments/assets/b92ccf68-b99e-4f27-9993-e3434a2c332c" width="100%"><br>
       <sub><em>Aspect Ratio, Original Mesh Grid</em></sub>
     </td>
   </tr>
    <tr>
     <td width="33%" align="center">
-      <img src="https://github.com/user-attachments/assets/5e40bb2a-48f5-4c87-9657-34e20ba8d471"
- width="100%"><br>
-       <sub><em>Aspect Screen Ratio, Fakelottes Shader with Frame</em></sub>
+      <img src="https://github.com/user-attachments/assets/c538d863-4586-497e-be82-454ba716b5a9" width="100%"><br>
+       <sub><em>Aspect Ratio, Original Stronger Mesh Grid</em></sub>
     </td>
     <td width="33%" align="center">
-      <img src="https://github.com/user-attachments/assets/2ce7cd38-bf8b-4930-b9cf-575d316221a9" width="100%"><br>
+      <img src="https://github.com/user-attachments/assets/3572fcfb-9d7d-4af5-bbf3-9de0602b8a96" width="100%"><br>
       <sub><em>Aspect Screen Ratio, Original Mesh Grid with Frame</em></sub>
     </td>
   </tr>
@@ -440,8 +439,15 @@ To install it, simply download [the font](https://github.com/user-attachments/fi
 
 The home console set comes with a *Blank* overlay and three additional *Mesh Grid* overlays that I’ve meticulously crafted through much trial and error. Shader solutions will almost always look better, since both aspect ratio and fullscreen setups require subpixel precision. That said, these overlays are incredibly lightweight and, in most cases, look good enough.
 
-For CRT overlays, please use **Linear** screen sharpness.
-<br>
+For CRT overlays, either use **Linear** screen sharpness, or apply the below Shader. The power impact should be minimum.
+
+- **Number of shaders:** *1* <br>
+- **Shader 1:** *stock.glsl* <br>
+- **Filter:** *NEAREST* <br>
+- **Source type:** *Source* <br>
+- **Texture type:** *Source* <br>
+- **Scale:** *3* <br>
+
 </details> 
 
 <details> 
