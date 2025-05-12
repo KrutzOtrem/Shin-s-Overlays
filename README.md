@@ -383,19 +383,32 @@ Most of my work can be found and downloaded easily through the [Theme Manager](h
   <table width="100%" cellspacing="0" cellpadding="4" border="1">
     <tr>
       <td width="33%" align="center">
-        <img src="https://github.com/user-attachments/assets/a9f0c699-ed51-4e99-aca2-ae8ee70adaf7" width="100%"><br>
-      <sub><em>The Minish Cap Original E.</em></sub><br>
-      <sub><a href="https://github.com/user-attachments/files/19964634/The.Minish.Cap.Original.E.zip"><img src="https://github.com/user-attachments/assets/44abbcda-a786-4b9f-91cb-46cf99003799" height="20"></a></sub>
-      </td>
-      <td width="33%" align="center">
-        <img src="https://github.com/user-attachments/assets/1967ce2a-a743-401d-acdb-2739b8fb9402" width="100%"><br>
+         <img src="https://github.com/user-attachments/assets/1967ce2a-a743-401d-acdb-2739b8fb9402" width="100%"><br>
       <sub><em>Celebi Special E.</em></sub><br>
       <sub><a href="https://github.com/user-attachments/files/19964657/Celebi.Special.E.zip"><img src="https://github.com/user-attachments/assets/44abbcda-a786-4b9f-91cb-46cf99003799" height="20"></a></sub>
+      </td>
+      <td width="33%" align="center">
+        <img src="https://github.com/user-attachments/assets/24150365-81be-479b-b0cf-efb2b03f4d96" width="100%"><br>
+      <sub><em>Suicine Special E.</em></sub><br>
+      <sub><a href="https://github.com/user-attachments/files/20166157/GBA.Suicine.Special.E.zip"><img src="https://github.com/user-attachments/assets/44abbcda-a786-4b9f-91cb-46cf99003799" height="20"></a></sub>
       </td>
       <td width="33%" align="center">
         <img src="https://github.com/user-attachments/assets/9017ef8c-ca83-4a67-99f0-fbfb5cbf91f0" width="100%"><br>
       <sub><em>New York Pokémon Center Special E.</em></sub><br>
       <sub><a href="https://github.com/user-attachments/files/19964661/New.York.Pokemon.Center.Special.E.zip"><img src="https://github.com/user-attachments/assets/44abbcda-a786-4b9f-91cb-46cf99003799" height="20"></a></sub>
+      </td>
+      </td>
+    </tr>
+    <tr>
+      <td width="33%" align="center">
+        <img src="https://github.com/user-attachments/assets/4310f350-4c03-41bc-a819-327ca58af558" width="100%"><br>
+      <sub><em>Latios and Latias Special E.</em></sub><br>
+      <sub><a href="https://github.com/user-attachments/files/20166150/Latios.and.Latias.Vanilla.Special.E.zip"><img src="https://github.com/user-attachments/assets/44abbcda-a786-4b9f-91cb-46cf99003799" height="20"></a></sub>
+      </td>
+      <td width="33%" align="center">
+        <img src="https://github.com/user-attachments/assets/a9f0c699-ed51-4e99-aca2-ae8ee70adaf7" width="100%"><br>
+      <sub><em>The Minish Cap Original E.</em></sub><br>
+      <sub><a href="https://github.com/user-attachments/files/19964634/The.Minish.Cap.Original.E.zip"><img src="https://github.com/user-attachments/assets/44abbcda-a786-4b9f-91cb-46cf99003799" height="20"></a></sub>
       </td>
       </td>
     </tr>
