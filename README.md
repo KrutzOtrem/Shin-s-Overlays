@@ -376,7 +376,7 @@ Most of my work can be found and downloaded easily through the [Theme Manager](h
 </details>
 
 <details>
-  <summary><strong>Game Boy Advance •&nbsp;<a href="https://github.com/user-attachments/files/19964625/Game.Boy.Advance.Complete.Special.and.Original.Editions.zip">Complete Edition</a></strong></summary>
+  <summary><strong>Game Boy Advance •&nbsp;<a href="https://github.com/user-attachments/files/20166188/Game.Boy.Advance.Complete.Special.and.Original.Editions.zip">Complete Edition</a></strong></summary>
 
   <p>
 
