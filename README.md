@@ -410,6 +410,11 @@ Most of my work can be found and downloaded easily through the [Theme Manager](h
       <sub><em>The Minish Cap Original E.</em></sub><br>
       <sub><a href="https://github.com/user-attachments/files/19964634/The.Minish.Cap.Original.E.zip"><img src="https://github.com/user-attachments/assets/44abbcda-a786-4b9f-91cb-46cf99003799" height="20"></a></sub>
       </td>
+      <td width="33%" align="center">
+        <img src="https://github.com/user-attachments/assets/a5b50d32-04aa-4bd9-80a7-e9059facae3a" width="100%"><br>
+      <sub><em>Mario & Luigi Special E.</em></sub><br>
+      <sub><a href="https://github.com/user-attachments/files/20176946/Mario.Luigi.Special.E.zip"><img src="https://github.com/user-attachments/assets/44abbcda-a786-4b9f-91cb-46cf99003799" height="20"></a></sub>
+      </td>
       </td>
     </tr>
   </table>
