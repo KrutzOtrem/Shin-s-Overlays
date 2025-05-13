@@ -304,7 +304,7 @@ Most of my work can be found and downloaded easily through the [Theme Manager](h
 ## Special Edition Overlays
 
 <details>
-  <summary><strong>Game Boy</strong></summary>
+  <summary><strong>Game Boy •&nbsp;<a href="https://github.com/user-attachments/files/20192150/Game.Boy.Complete.Edition.zip">Complete Edition</a></strong></summary>
 
   <p>
 
@@ -316,10 +316,14 @@ Most of my work can be found and downloaded easily through the [Theme Manager](h
         <sub><a href="https://github.com/user-attachments/files/19964282/Jusco.Mario.Special.E.for.Game.Boy.zip"><img src="https://github.com/user-attachments/assets/44abbcda-a786-4b9f-91cb-46cf99003799" height="20"></a></sub>
       </td>
       <td width="33%" align="center">
-     <sub><em>Coming Soon</em></sub>
+        <img src="https://github.com/user-attachments/assets/14961cd9-0998-46fe-a2a4-feb486404e6a" width="100%"><br>
+      <sub><em>Special Pokémon E.</em></sub><br>
+        <sub><a href="https://github.com/user-attachments/files/20192138/Special.Pokemon.E.zip"><img src="https://github.com/user-attachments/assets/44abbcda-a786-4b9f-91cb-46cf99003799" height="20"></a></sub>
       </td>
       <td width="33%" align="center">
-      <sub><em>Coming Soon</em></sub>
+        <img src="https://github.com/user-attachments/assets/049f667d-138e-4903-9e0b-15f3c4c7b0e7" width="100%"><br>
+      <sub><em>Special Pokémon E., No B, H, L</em></sub><br>
+        <sub><a href="https://github.com/user-attachments/files/20192141/Special.Pokemon.E.Light.zip"><img src="https://github.com/user-attachments/assets/44abbcda-a786-4b9f-91cb-46cf99003799" height="20"></a></sub>
       </td>
       </td>
     </tr>
