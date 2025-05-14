@@ -458,7 +458,7 @@ To install it, simply download [the font](https://github.com/user-attachments/fi
 <details> 
   <summary><strong>Home Consoles</strong></summary>
 
-The home console set comes with a *Blank* overlay and three additional *Mesh Grid* overlays that I’ve meticulously crafted through much trial and error. Shader solutions will almost always look better, since both aspect ratio and fullscreen setups require subpixel precision. That said, these overlays are incredibly lightweight and, in most cases, look good enough.
+The home console set includes a *Blank* overlay and several *Mesh Grid* overlays I put together after a lot of tweaking and testing. Shader-based setups will usually give better results, especially for getting the aspect ratio and fullscreen display just right. Still, these overlays are super lightweight and, for most setups, they look good enough to do the job.
 
 For CRT overlays, either use **Linear** screen sharpness, or apply the below Shader. The power impact should be minimum.
 
