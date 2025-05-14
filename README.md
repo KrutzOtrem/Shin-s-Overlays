@@ -23,16 +23,15 @@
 </strong></summary>
 <br>
 
-In this repository, I’ll be sharing overlays, themes, and backgrounds I’ve created for my white **Trimui Brick**, using [NextUI](https://github.com/LoveRetro/NextUI).
+In this repository, you’ll find overlays, themes, and backgrounds I’ve made for my white **Trimui Brick**, using [NextUI](https://github.com/LoveRetro/NextUI).
 
-The menu design draws inspiration from CRT aesthetics, and the emulator overlays are all based on original console samples—just reworked with modern color palettes to match the overall vibe of associated themes.
+The theme designs are loosely inspired by CRT-style visuals, and the emulator overlays are based on actual console designs—just adjusted with updated colors to better fit the overall theme.
 
-In these screenshots, the custom *Mesh Grid* for home consoles and the *LCD Grid* for handhelds may not appear very pleasing—but all of these effects were designed specifically for the device screen and went through a large number of iterations. That said, admittedly, they’re not perfect, and I’ll keep working on them. 
-The same goes for the shadow that creates the depth effect—it probably took me longer to perfect than it should have, but it looks better on the actual device screen.
+Some of the effects, like the *Mesh Grid* for home consoles and the *LCD Grid* for handhelds, might not look great in screenshots—but they were made specifically for the Trimui screen and tested through lots of trial and error. They’re still a work in progress, and I’ll keep improving them. Same goes for the drop shadow used to create a bit of depth—it took more time than I’d like to admit, but it does also look better on the actual device.
 
-Most of my work can be found and downloaded easily through the [Theme Manager](https://github.com/Leviathanium/NextUI-Theme-Manager). Otherwise, each table has associated ZIP files. 
+You can get most of the files easily through the [Theme Manager](https://github.com/Leviathanium/NextUI-Theme-Manager), or just download them from the tables below—each one includes ZIP links.
 
-**Please don’t forget to click on the arrow expanders to see the samples in table form—there’s a lot to explore!** I hope you enjoy!
+**Click the arrows to expand the tables and see the samples. There's a bunch in there, so take a look. Hope you find something you like!**
 
 </details>
 
