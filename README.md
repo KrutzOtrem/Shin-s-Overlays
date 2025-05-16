@@ -25,9 +25,9 @@
 
 In this repository, you’ll find overlays, themes, and backgrounds I’ve made for my white **Trimui Brick**, using [NextUI](https://github.com/LoveRetro/NextUI).
 
-The theme designs are loosely inspired by CRT-style visuals, and the emulator overlays are based on actual console designs—just adjusted with updated colors to better fit the overall theme.
+The theme designs are loosely inspired by CRT-style visuals, and the emulator overlays are based on actual console designs, just adjusted with updated colors to better fit the overall theme.
 
-Some of the effects, like the *Mesh Grid* for home consoles and the *LCD Grid* for handhelds, might not look great in screenshots—but they were made specifically for the Trimui screen and tested through lots of trial and error. They’re still a work in progress, and I’ll keep improving them. Same goes for the drop shadow used to create a bit of depth—it took more time than I’d like to admit, but it does also look better on the actual device.
+Some of the effects, like the *Mesh Grid* for home consoles and the *LCD Grid* for handhelds, might not look great in screenshots, but they were made specifically for the Trimui screen and tested through lots of trial and error. They’re still a work in progress, and I’ll keep improving them. Same goes for the drop shadow used to create a bit of depth, it took more time than I’d like to admit, but it does also look better on the actual device.
 
 You can get most of the files easily through the [Theme Manager](https://github.com/Leviathanium/NextUI-Theme-Manager), or just download them from the tables below—each one includes ZIP links.
 
