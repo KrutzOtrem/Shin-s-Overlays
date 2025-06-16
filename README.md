@@ -50,12 +50,12 @@ You can get most of the files easily through the [Theme Manager](https://github.
 <table width="100%" cellspacing="0" cellpadding="4" border="1">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github.com/user-attachments/assets/264bf320-ac1b-4ba3-b615-0c1bf10e96bb" width="100%"><br>
-        <sub><a href="https://github.com/KrutzOtrem/Trimui-Brick-Overlays/releases/download/bz.v1.0/Brick.Zero.zip">Brick Zero</a></sub>
+      <img src="https://github.com/user-attachments/assets/136b0c4d-f6c6-43c5-8cb5-d319188bb40f" width="100%"><br>
+        <sub><a href="https://github.com/KrutzOtrem/Trimui-Brick-Overlays/releases/download/np.v1.0/Next.Pixel.zip">Next Pixel</a></sub>
     </td>
        <td width="50%" align="center">
-      <img src="https://github.com/user-attachments/assets/f41bd19b-2c79-4f9f-a05a-8f83aea55ea0" width="100%"><br>
-        <sub><a href="https://github.com/KrutzOtrem/Trimui-Brick-Overlays/releases/download/pt.v1.0/Pop-Tarts.zip">Pop-Tarts</a></sub>
+      <img src="https://github.com/user-attachments/assets/264bf320-ac1b-4ba3-b615-0c1bf10e96bb" width="100%"><br>
+        <sub><a href="https://github.com/KrutzOtrem/Trimui-Brick-Overlays/releases/download/bz.v1.0/Brick.Zero.zip">Brick Zero</a></sub>
     </td>
   </tr>
 </table>
@@ -96,8 +96,9 @@ You can get most of the files easily through the [Theme Manager](https://github.
         <sub><a href="https://github.com/user-attachments/files/19965148/Deep.Space.Clean.zip">Deep Space Clean E.</a></sub>
       </td>
       <td width="25%" align="center">
-        <sub><em>Coming Soon</em></sub>
-      </td>
+      <img src="https://github.com/user-attachments/assets/f41bd19b-2c79-4f9f-a05a-8f83aea55ea0" width="100%"><br>
+        <sub><a href="https://github.com/KrutzOtrem/Trimui-Brick-Overlays/releases/download/pt.v1.0/Pop-Tarts.zip">Pop-Tarts</a></sub>
+    </td>
       <td width="25%" align="center">
         <sub><em>Coming Soon</em></sub>
       </td>
